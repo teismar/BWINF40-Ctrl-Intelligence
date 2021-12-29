@@ -1,0 +1,18 @@
+public class Ergebnis {
+	
+	public int[] koeffizienten;
+	public int[] gewichteMasse;
+	public boolean teilDerWertemenge;
+	public int zielGewicht;
+	public int erreichtesGewicht;
+	
+	public Ergebnis(int[] koeffizienten, int[] gewichteMasse, boolean teilDerWertemenge, int zielGewicht, 
+	int erreichtesGewicht) {
+		this.koeffizienten=koeffizienten;
+		this.gewichteMasse=gewichteMasse;
+		this.teilDerWertemenge=teilDerWertemenge;
+		this.zielGewicht=zielGewicht;
+		this.erreichtesGewicht= erreichtesGewicht;
+	}
+	
+}

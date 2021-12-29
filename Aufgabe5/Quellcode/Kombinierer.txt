@@ -1,0 +1,143 @@
+import java.io.*;
+import java.util.Scanner;
+
+public class Kombinierer {
+	
+	public Kombinierer() {
+		
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("Geben sie den absoluten Dateipfad von einer Beispieldatei von Aufgabe 5 an.");
+		Scanner sc = new Scanner(System.in);
+		String path = sc.next();
+		Kombinierer k = new Kombinierer();
+		GewichteDaten gd = k.textdateiEinlesen(new File(path));
+		Ergebnis[] e = new Ergebnis[1000];
+		for(int i=0; i<e.length; i++) {
+			e[i] = k.kombinieren(gd, (i+1)*10); // In 10er-Schritten arbeiten.
+		}
+		k.ergebnisseInDateiSchreiben(e,path);
+		System.out.println("Programm ist abgeschlossen und die Ergebnisse in dem Ordner der Beispieldatei gespeichert.");
+	}
+	
+	public GewichteDaten textdateiEinlesen(File file) { // Liest eine gegebene Textdatei ein und erschließt die wichtigsten Infos, welche im GewichteDateien-Objekt zusammengefasst werden.
+		try {
+			BufferedReader br = new BufferedReader(new FileReader(file));
+			int[] koeffizienten = new int[Integer.valueOf(br.readLine())]; // Wie viele Koeffizienten es geben soll.
+			int[] gewichteMasse = new int[koeffizienten.length]; // Wie viele verschiedene Arten von Gewichten es geben soll.
+			int[] gewichteMaenge = new int[koeffizienten.length]; // Wie viele Gewichte es von welcher Art gibt.
+			int[][] koeffizientenMinMax = new int[koeffizienten.length][2];
+			for(int i=0; i< koeffizienten.length; i++) { // Bestimmt den Minimal- und Maximalwert der Koeffizienten.
+				String[] sa = br.readLine().split(" ");
+				gewichteMasse[i] = Integer.valueOf(sa[0]);
+				gewichteMaenge[i] = Integer.valueOf(sa[1]);
+				koeffizientenMinMax[i][0] = -1 * gewichteMaenge[i];
+				koeffizientenMinMax[i][1] = 1 * gewichteMaenge[i];
+			}
+			br.close();
+			//System.out.println("Erfolgreich eingelesen.");
+			return new GewichteDaten(koeffizienten, gewichteMasse, gewichteMaenge, koeffizientenMinMax);
+				
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (NumberFormatException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return null;
+	}
+	
+	public int termBerechnen(int[] koeffizienten, int[] gewichteMasse) { // Berechnet das Ergebnis des Terms, wenn man die Gewichte mit ihren Koeffizienten multipliziert.
+		int summe = 0;
+		for(int i=0; i<koeffizienten.length; i++) {
+			summe += koeffizienten[i]*gewichteMasse[i];
+		}
+		return summe;
+	}
+	
+	public int[] koeffizientenRunterzaehlen(int[] koeffizienten, int[][] koeffizientenMinMax, int index) { // Da nach und nach alle Möglichkeiten betrachtet werden, 
+		//werden die Koeffizienten so runtergezählt, dass sie, wenn man sie in den Term einsetzt, dieser immer das nächst kleinere Ergebnis liefert.
+		if(index < koeffizienten.length) {	
+			if(koeffizienten[index]==koeffizientenMinMax[index][0]) {
+				koeffizienten[index] = koeffizientenMinMax[index][1];
+				return koeffizientenRunterzaehlen(koeffizienten, koeffizientenMinMax, index+1);
+			}else {
+				koeffizienten[index] -= 1;
+				return koeffizienten;
+			}
+		} else return koeffizienten;
+	}
+	
+	public Ergebnis kombinieren(GewichteDaten gewichteDaten, int zielMasse) {
+		int[] koeffizienten = gewichteDaten.koeffizienten.clone();
+		int[] gewichteMasse = gewichteDaten.gewichteMasse.clone();
+		int[][] koeffizientenMinMax = gewichteDaten.koeffizientenMinMax.clone();
+		// Alle Koeffizienten auf ihr Maximum setzen, damit man mit der höchsten Zahl beginnt
+		for(int i=0; i<koeffizienten.length; i++) {
+			koeffizienten[i] = koeffizientenMinMax[i][1];
+		}
+		// Berechnen des ersten potentiellen Ergebnisses und Festlegung von Richtwerten, die für die While-Schleife wichtig sind.
+		int berechnetesGewicht = termBerechnen(koeffizienten, gewichteMasse);
+		int bislangBestesGewicht = berechnetesGewicht;
+		int[] bislangBesteKoeffizienten = koeffizienten.clone();
+		boolean teilDerMenge = berechnetesGewicht == zielMasse;
+		Ergebnis bestesErgebnis = new Ergebnis(bislangBesteKoeffizienten, gewichteMasse, teilDerMenge, zielMasse, bislangBestesGewicht);
+		if(teilDerMenge) return bestesErgebnis;
+		// Keine negativen Summen sollen aus dem Term entstehen, da sie im Sachzusammenhang keinen Sinn ergeben und kein Element der "Menge" sein können
+		boolean nichtNegativesErgebnis = berechnetesGewicht >= 0;
+		while(nichtNegativesErgebnis) {
+			// Berechnen der Werte
+			koeffizientenRunterzaehlen(koeffizienten, koeffizientenMinMax, 0);
+			berechnetesGewicht = termBerechnen(koeffizienten, gewichteMasse);
+			nichtNegativesErgebnis = berechnetesGewicht >= 0;
+			teilDerMenge = berechnetesGewicht == zielMasse;
+			if(nichtNegativesErgebnis) {
+				if(teilDerMenge) {
+					// Wenn man einen Term hat, der die gesuchte Zahl ergibt, dann speichert man die Werte, die zu diesem Ergebnis geführt haben, ab.
+					bestesErgebnis = new Ergebnis(koeffizienten, gewichteMasse, teilDerMenge, zielMasse, berechnetesGewicht);
+					return bestesErgebnis;
+				} else if(Math.abs(zielMasse-berechnetesGewicht) <= Math.abs(zielMasse-bislangBestesGewicht)) {
+					// Wenn es keine Lösung ist, dann merkt man sich den Weg, der am nächsten zur Zielmasse führt.
+					bislangBesteKoeffizienten = koeffizienten.clone();
+					bestesErgebnis = new Ergebnis(bislangBesteKoeffizienten, gewichteMasse, teilDerMenge, zielMasse, berechnetesGewicht);
+					bislangBestesGewicht = berechnetesGewicht;
+
+				}
+			}
+		}
+		// Wenn nie ein Teil der Menge gefunden wurde, dann wird das beste Ergebnis, welches zuvor gespeichert wurde, zurückgegeben.
+		return bestesErgebnis;		
+	}
+	
+	public void ergebnisseInDateiSchreiben(Ergebnis[] ergebnisse, String path) {
+		try {
+			path = path.substring(0,path.length()-4) + "Ergebnis.txt";
+			BufferedWriter bw = new BufferedWriter(new FileWriter(new File(path)));
+			String ausgabe;
+			for(int i=0; i<ergebnisse.length; i++) {
+				// Hier wird der Ausgabe hinzugefügt, welches das Zielgewicht ist und ob es Teil der Menge ist.
+				Ergebnis ergebnis = ergebnisse[i];
+				ausgabe = "Ist " + ergebnis.zielGewicht + " Teil der Menge? " + ergebnis.teilDerWertemenge;
+				if(ergebnis.teilDerWertemenge) {
+					ausgabe += ". Ein möglicher Lösungsweg ist: ";
+				} else {
+					ausgabe += ". Am nächsten an Lösung mit " + ergebnis.erreichtesGewicht + " ist: ";
+				}
+				
+				for(int j=0; j<ergebnis.koeffizienten.length; j++) {
+					// Hier wird der Ausgabe hinzugefügt, auf welche Weise man am nächsten, oder genau auf das Zielgewicht kommt.
+					ausgabe += ergebnis.koeffizienten[j] + "mal " + ergebnis.gewichteMasse[j] + "g und ";
+				}
+				ausgabe = ausgabe.substring(0, ausgabe.length()-4);
+				ausgabe += "\r\n";
+				bw.write(ausgabe);
+			}
+			bw.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+	
+}

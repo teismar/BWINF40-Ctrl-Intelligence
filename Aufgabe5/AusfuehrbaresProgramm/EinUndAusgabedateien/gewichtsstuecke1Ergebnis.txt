@@ -1,0 +1,1000 @@
+Ist 10 Teil der Menge? false. Am nächsten an Lösung mit 9 ist: -3mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 20 Teil der Menge? false. Am nächsten an Lösung mit 19 ist: -3mal 42g und 0mal 127g und -5mal 371g und 1mal 2000g 
+Ist 30 Teil der Menge? false. Am nächsten an Lösung mit 19 ist: -3mal 42g und 0mal 127g und -5mal 371g und 1mal 2000g 
+Ist 40 Teil der Menge? false. Am nächsten an Lösung mit 51 ist: -2mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 50 Teil der Menge? false. Am nächsten an Lösung mit 51 ist: -2mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 60 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 70 Teil der Menge? false. Am nächsten an Lösung mit 61 ist: -2mal 42g und 0mal 127g und -5mal 371g und 1mal 2000g 
+Ist 80 Teil der Menge? false. Am nächsten an Lösung mit 93 ist: -1mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 90 Teil der Menge? false. Am nächsten an Lösung mit 93 ist: -1mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 100 Teil der Menge? false. Am nächsten an Lösung mit 102 ist: 2mal 42g und -1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 110 Teil der Menge? false. Am nächsten an Lösung mit 103 ist: -1mal 42g und 0mal 127g und -5mal 371g und 1mal 2000g 
+Ist 120 Teil der Menge? false. Am nächsten an Lösung mit 135 ist: 0mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 130 Teil der Menge? false. Am nächsten an Lösung mit 135 ist: 0mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 140 Teil der Menge? false. Am nächsten an Lösung mit 144 ist: 3mal 42g und -1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 150 Teil der Menge? false. Am nächsten an Lösung mit 146 ist: -3mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 160 Teil der Menge? false. Am nächsten an Lösung mit 146 ist: -3mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 170 Teil der Menge? false. Am nächsten an Lösung mit 177 ist: 1mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 180 Teil der Menge? false. Am nächsten an Lösung mit 178 ist: -2mal 42g und -2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 190 Teil der Menge? false. Am nächsten an Lösung mit 188 ist: -2mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 200 Teil der Menge? false. Am nächsten an Lösung mit 188 ist: -2mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 210 Teil der Menge? false. Am nächsten an Lösung mit 219 ist: 2mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 220 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 230 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 240 Teil der Menge? false. Am nächsten an Lösung mit 230 ist: -1mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 250 Teil der Menge? false. Am nächsten an Lösung mit 261 ist: 3mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 260 Teil der Menge? false. Am nächsten an Lösung mit 261 ist: 3mal 42g und -3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 270 Teil der Menge? false. Am nächsten an Lösung mit 271 ist: 3mal 42g und 0mal 127g und -5mal 371g und 1mal 2000g 
+Ist 280 Teil der Menge? false. Am nächsten an Lösung mit 273 ist: -3mal 42g und 2mal 127g und -5mal 371g und 1mal 2000g 
+Ist 290 Teil der Menge? false. Am nächsten an Lösung mit 304 ist: 1mal 42g und -2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 300 Teil der Menge? false. Am nächsten an Lösung mit 304 ist: 1mal 42g und -2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 310 Teil der Menge? false. Am nächsten an Lösung mit 314 ist: 1mal 42g und 1mal 127g und -5mal 371g und 1mal 2000g 
+Ist 320 Teil der Menge? false. Am nächsten an Lösung mit 315 ist: -2mal 42g und 2mal 127g und -5mal 371g und 1mal 2000g 
+Ist 330 Teil der Menge? false. Am nächsten an Lösung mit 315 ist: -2mal 42g und 2mal 127g und -5mal 371g und 1mal 2000g 
+Ist 340 Teil der Menge? false. Am nächsten an Lösung mit 346 ist: 2mal 42g und -2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 350 Teil der Menge? false. Am nächsten an Lösung mit 347 ist: -1mal 42g und -1mal 127g und -4mal 371g und 1mal 2000g 
+Ist 360 Teil der Menge? false. Am nächsten an Lösung mit 357 ist: -1mal 42g und 2mal 127g und -5mal 371g und 1mal 2000g 
+Ist 370 Teil der Menge? false. Am nächsten an Lösung mit 380 ist: -3mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 380 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und -4mal 371g und 1mal 2000g 
+Ist 400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 410 Teil der Menge? false. Am nächsten an Lösung mit 400 ist: -3mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 420 Teil der Menge? false. Am nächsten an Lösung mit 422 ist: -2mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 430 Teil der Menge? false. Am nächsten an Lösung mit 431 ist: 1mal 42g und -1mal 127g und -4mal 371g und 1mal 2000g 
+Ist 440 Teil der Menge? false. Am nächsten an Lösung mit 441 ist: 1mal 42g und 2mal 127g und -5mal 371g und 1mal 2000g 
+Ist 450 Teil der Menge? false. Am nächsten an Lösung mit 442 ist: -2mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 460 Teil der Menge? false. Am nächsten an Lösung mit 464 ist: -1mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 470 Teil der Menge? false. Am nächsten an Lösung mit 473 ist: 2mal 42g und -1mal 127g und -4mal 371g und 1mal 2000g 
+Ist 480 Teil der Menge? false. Am nächsten an Lösung mit 483 ist: 2mal 42g und 2mal 127g und -5mal 371g und 1mal 2000g 
+Ist 490 Teil der Menge? false. Am nächsten an Lösung mit 484 ist: -1mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 500 Teil der Menge? false. Am nächsten an Lösung mit 506 ist: 0mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 510 Teil der Menge? false. Am nächsten an Lösung mit 507 ist: -3mal 42g und -2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 520 Teil der Menge? false. Am nächsten an Lösung mit 517 ist: -3mal 42g und 1mal 127g und -4mal 371g und 1mal 2000g 
+Ist 530 Teil der Menge? false. Am nächsten an Lösung mit 526 ist: 0mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 540 Teil der Menge? false. Am nächsten an Lösung mit 548 ist: 1mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 550 Teil der Menge? false. Am nächsten an Lösung mit 549 ist: -2mal 42g und -2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 560 Teil der Menge? false. Am nächsten an Lösung mit 559 ist: -2mal 42g und 1mal 127g und -4mal 371g und 1mal 2000g 
+Ist 570 Teil der Menge? false. Am nächsten an Lösung mit 568 ist: 1mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 580 Teil der Menge? false. Am nächsten an Lösung mit 590 ist: 2mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 590 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und -4mal 371g und 1mal 2000g 
+Ist 610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 620 Teil der Menge? false. Am nächsten an Lösung mit 610 ist: 2mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 630 Teil der Menge? false. Am nächsten an Lösung mit 632 ist: 3mal 42g und -3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 640 Teil der Menge? false. Am nächsten an Lösung mit 642 ist: 3mal 42g und 0mal 127g und -4mal 371g und 1mal 2000g 
+Ist 650 Teil der Menge? false. Am nächsten an Lösung mit 652 ist: 3mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 660 Teil der Menge? false. Am nächsten an Lösung mit 652 ist: 3mal 42g und 3mal 127g und -5mal 371g und 1mal 2000g 
+Ist 670 Teil der Menge? false. Am nächsten an Lösung mit 675 ist: 1mal 42g und -2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 680 Teil der Menge? false. Am nächsten an Lösung mit 676 ist: -2mal 42g und -1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 690 Teil der Menge? false. Am nächsten an Lösung mit 686 ist: -2mal 42g und 2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 700 Teil der Menge? false. Am nächsten an Lösung mit 686 ist: -2mal 42g und 2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 710 Teil der Menge? false. Am nächsten an Lösung mit 717 ist: 2mal 42g und -2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 720 Teil der Menge? false. Am nächsten an Lösung mit 718 ist: -1mal 42g und -1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 730 Teil der Menge? false. Am nächsten an Lösung mit 728 ist: -1mal 42g und 2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 740 Teil der Menge? false. Am nächsten an Lösung mit 751 ist: -3mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 750 Teil der Menge? false. Am nächsten an Lösung mit 751 ist: -3mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 760 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 780 Teil der Menge? false. Am nächsten an Lösung mit 771 ist: -3mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 790 Teil der Menge? false. Am nächsten an Lösung mit 793 ist: -2mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 800 Teil der Menge? false. Am nächsten an Lösung mit 802 ist: 1mal 42g und -1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 810 Teil der Menge? false. Am nächsten an Lösung mit 812 ist: 1mal 42g und 2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 820 Teil der Menge? false. Am nächsten an Lösung mit 813 ist: -2mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 830 Teil der Menge? false. Am nächsten an Lösung mit 835 ist: -1mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 840 Teil der Menge? false. Am nächsten an Lösung mit 844 ist: 2mal 42g und -1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 850 Teil der Menge? false. Am nächsten an Lösung mit 854 ist: 2mal 42g und 2mal 127g und -4mal 371g und 1mal 2000g 
+Ist 860 Teil der Menge? false. Am nächsten an Lösung mit 855 ist: -1mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 870 Teil der Menge? false. Am nächsten an Lösung mit 877 ist: 0mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 880 Teil der Menge? false. Am nächsten an Lösung mit 878 ist: -3mal 42g und -2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 890 Teil der Menge? false. Am nächsten an Lösung mit 888 ist: -3mal 42g und 1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 900 Teil der Menge? false. Am nächsten an Lösung mit 897 ist: 0mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 910 Teil der Menge? false. Am nächsten an Lösung mit 919 ist: 1mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 920 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 940 Teil der Menge? false. Am nächsten an Lösung mit 939 ist: 1mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 950 Teil der Menge? false. Am nächsten an Lösung mit 939 ist: 1mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 960 Teil der Menge? false. Am nächsten an Lösung mit 961 ist: 2mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 970 Teil der Menge? false. Am nächsten an Lösung mit 971 ist: 2mal 42g und 0mal 127g und -3mal 371g und 1mal 2000g 
+Ist 980 Teil der Menge? false. Am nächsten an Lösung mit 981 ist: 2mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 990 Teil der Menge? false. Am nächsten an Lösung mit 981 ist: 2mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 1000 Teil der Menge? false. Am nächsten an Lösung mit 1003 ist: 3mal 42g und -3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1010 Teil der Menge? false. Am nächsten an Lösung mit 1013 ist: 3mal 42g und 0mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1020 Teil der Menge? false. Am nächsten an Lösung mit 1023 ist: 3mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 1030 Teil der Menge? false. Am nächsten an Lösung mit 1023 ist: 3mal 42g und 3mal 127g und -4mal 371g und 1mal 2000g 
+Ist 1040 Teil der Menge? false. Am nächsten an Lösung mit 1046 ist: 1mal 42g und -2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1050 Teil der Menge? false. Am nächsten an Lösung mit 1047 ist: -2mal 42g und -1mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1060 Teil der Menge? false. Am nächsten an Lösung mit 1057 ist: -2mal 42g und 2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1070 Teil der Menge? false. Am nächsten an Lösung mit 1057 ist: -2mal 42g und 2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1080 Teil der Menge? false. Am nächsten an Lösung mit 1088 ist: 2mal 42g und -2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1090 Teil der Menge? false. Am nächsten an Lösung mit 1089 ist: -1mal 42g und -1mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1100 Teil der Menge? false. Am nächsten an Lösung mit 1099 ist: -1mal 42g und 2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1110 Teil der Menge? false. Am nächsten an Lösung mit 1099 ist: -1mal 42g und 2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1120 Teil der Menge? false. Am nächsten an Lösung mit 1122 ist: -3mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1130 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1140 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 1mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1150 Teil der Menge? false. Am nächsten an Lösung mit 1142 ist: -3mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1160 Teil der Menge? false. Am nächsten an Lösung mit 1164 ist: -2mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1170 Teil der Menge? false. Am nächsten an Lösung mit 1173 ist: 1mal 42g und -1mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1180 Teil der Menge? false. Am nächsten an Lösung mit 1183 ist: 1mal 42g und 2mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1190 Teil der Menge? false. Am nächsten an Lösung mit 1184 ist: -2mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1200 Teil der Menge? false. Am nächsten an Lösung mit 1206 ist: -1mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1210 Teil der Menge? false. Am nächsten an Lösung mit 1206 ist: -1mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1220 Teil der Menge? false. Am nächsten an Lösung mit 1216 ist: -1mal 42g und 0mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1230 Teil der Menge? false. Am nächsten an Lösung mit 1226 ist: -1mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1240 Teil der Menge? false. Am nächsten an Lösung mit 1248 ist: 0mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1250 Teil der Menge? false. Am nächsten an Lösung mit 1249 ist: -3mal 42g und -2mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1260 Teil der Menge? false. Am nächsten an Lösung mit 1259 ist: -3mal 42g und 1mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1270 Teil der Menge? false. Am nächsten an Lösung mit 1268 ist: 0mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1280 Teil der Menge? false. Am nächsten an Lösung mit 1290 ist: 1mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1290 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1300 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 0mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1320 Teil der Menge? false. Am nächsten an Lösung mit 1310 ist: 1mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1330 Teil der Menge? false. Am nächsten an Lösung mit 1332 ist: 2mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1340 Teil der Menge? false. Am nächsten an Lösung mit 1342 ist: 2mal 42g und 0mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1350 Teil der Menge? false. Am nächsten an Lösung mit 1351 ist: -1mal 42g und -3mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1360 Teil der Menge? false. Am nächsten an Lösung mit 1352 ist: 2mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1370 Teil der Menge? false. Am nächsten an Lösung mit 1374 ist: 3mal 42g und -3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1380 Teil der Menge? false. Am nächsten an Lösung mit 1384 ist: 3mal 42g und 0mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1390 Teil der Menge? false. Am nächsten an Lösung mit 1393 ist: 0mal 42g und -3mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1400 Teil der Menge? false. Am nächsten an Lösung mit 1394 ist: 3mal 42g und 3mal 127g und -3mal 371g und 1mal 2000g 
+Ist 1410 Teil der Menge? false. Am nächsten an Lösung mit 1417 ist: 1mal 42g und -2mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1420 Teil der Menge? false. Am nächsten an Lösung mit 1418 ist: -2mal 42g und -1mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1430 Teil der Menge? false. Am nächsten an Lösung mit 1428 ist: -2mal 42g und 2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1440 Teil der Menge? false. Am nächsten an Lösung mit 1436 ist: -2mal 42g und -2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1450 Teil der Menge? false. Am nächsten an Lösung mit 1459 ist: 2mal 42g und -2mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1460 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -1mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1470 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1480 Teil der Menge? false. Am nächsten an Lösung mit 1478 ist: -1mal 42g und -2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1490 Teil der Menge? false. Am nächsten an Lösung mit 1493 ist: -3mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1500 Teil der Menge? false. Am nächsten an Lösung mit 1501 ist: 3mal 42g und -2mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1510 Teil der Menge? false. Am nächsten an Lösung mit 1511 ist: 3mal 42g und 1mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1520 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1530 Teil der Menge? false. Am nächsten an Lösung mit 1535 ist: -2mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1540 Teil der Menge? false. Am nächsten an Lösung mit 1544 ist: 1mal 42g und -1mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1550 Teil der Menge? false. Am nächsten an Lösung mit 1554 ist: 1mal 42g und 2mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1560 Teil der Menge? false. Am nächsten an Lösung mit 1562 ist: 1mal 42g und -2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1570 Teil der Menge? false. Am nächsten an Lösung mit 1577 ist: -1mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1580 Teil der Menge? false. Am nächsten an Lösung mit 1577 ist: -1mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1590 Teil der Menge? false. Am nächsten an Lösung mit 1587 ist: -1mal 42g und 0mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1600 Teil der Menge? false. Am nächsten an Lösung mit 1597 ist: -1mal 42g und 3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1610 Teil der Menge? false. Am nächsten an Lösung mit 1605 ist: -1mal 42g und -1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1620 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -2mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1630 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 1mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1640 Teil der Menge? false. Am nächsten an Lösung mit 1639 ist: 0mal 42g und 3mal 127g und -2mal 371g und 1mal 2000g 
+Ist 1650 Teil der Menge? false. Am nächsten an Lösung mit 1648 ist: -3mal 42g und 0mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1660 Teil der Menge? false. Am nächsten an Lösung mit 1661 ist: 1mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1670 Teil der Menge? false. Am nächsten an Lösung mit 1671 ist: 1mal 42g und 0mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1680 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1700 Teil der Menge? false. Am nächsten an Lösung mit 1703 ist: 2mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1710 Teil der Menge? false. Am nächsten an Lösung mit 1713 ist: 2mal 42g und 0mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1720 Teil der Menge? false. Am nächsten an Lösung mit 1722 ist: -1mal 42g und -3mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1730 Teil der Menge? false. Am nächsten an Lösung mit 1731 ist: 2mal 42g und -1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1740 Teil der Menge? false. Am nächsten an Lösung mit 1745 ist: 3mal 42g und -3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1750 Teil der Menge? false. Am nächsten an Lösung mit 1747 ist: -3mal 42g und -1mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1760 Teil der Menge? false. Am nächsten an Lösung mit 1757 ist: -3mal 42g und 2mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1770 Teil der Menge? false. Am nächsten an Lösung mit 1773 ist: 3mal 42g und -1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1780 Teil der Menge? false. Am nächsten an Lösung mit 1775 ist: -3mal 42g und 1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1790 Teil der Menge? false. Am nächsten an Lösung mit 1789 ist: -2mal 42g und -1mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1800 Teil der Menge? false. Am nächsten an Lösung mit 1799 ist: -2mal 42g und 2mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1810 Teil der Menge? false. Am nächsten an Lösung mit 1807 ist: -2mal 42g und -2mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1820 Teil der Menge? false. Am nächsten an Lösung mit 1817 ist: -2mal 42g und 1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1830 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -2mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1840 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 1mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1850 Teil der Menge? false. Am nächsten an Lösung mit 1849 ist: -1mal 42g und -2mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1860 Teil der Menge? false. Am nächsten an Lösung mit 1859 ist: -1mal 42g und 1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1870 Teil der Menge? false. Am nächsten an Lösung mit 1872 ist: 3mal 42g und -2mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1880 Teil der Menge? false. Am nächsten an Lösung mit 1882 ist: 3mal 42g und 1mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1890 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1900 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1910 Teil der Menge? false. Am nächsten an Lösung mit 1906 ist: -2mal 42g und -3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 1920 Teil der Menge? false. Am nächsten an Lösung mit 1916 ist: -2mal 42g und 0mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1930 Teil der Menge? false. Am nächsten an Lösung mit 1933 ist: 1mal 42g und -2mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1940 Teil der Menge? false. Am nächsten an Lösung mit 1943 ist: 1mal 42g und 1mal 127g und -6mal 371g und 2mal 2000g 
+Ist 1950 Teil der Menge? false. Am nächsten an Lösung mit 1948 ist: -1mal 42g und -3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 1960 Teil der Menge? false. Am nächsten an Lösung mit 1958 ist: -1mal 42g und 0mal 127g und 0mal 371g und 1mal 2000g 
+Ist 1970 Teil der Menge? false. Am nächsten an Lösung mit 1968 ist: -1mal 42g und 3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 1980 Teil der Menge? false. Am nächsten an Lösung mit 1976 ist: -1mal 42g und -1mal 127g und -5mal 371g und 2mal 2000g 
+Ist 1990 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2000 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 0mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2010 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 2020 Teil der Menge? false. Am nächsten an Lösung mit 2019 ist: -3mal 42g und 0mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2030 Teil der Menge? false. Am nächsten an Lösung mit 2029 ist: -3mal 42g und 3mal 127g und -6mal 371g und 2mal 2000g 
+Ist 2040 Teil der Menge? false. Am nächsten an Lösung mit 2042 ist: 1mal 42g und 0mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2050 Teil der Menge? false. Am nächsten an Lösung mit 2051 ist: -2mal 42g und -3mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2060 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 2080 Teil der Menge? false. Am nächsten an Lösung mit 2084 ist: 2mal 42g und 0mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2090 Teil der Menge? false. Am nächsten an Lösung mit 2093 ist: -1mal 42g und -3mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2100 Teil der Menge? false. Am nächsten an Lösung mit 2102 ist: 2mal 42g und -1mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2110 Teil der Menge? false. Am nächsten an Lösung mit 2112 ist: 2mal 42g und 2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 2120 Teil der Menge? false. Am nächsten an Lösung mit 2118 ist: -3mal 42g und -1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2130 Teil der Menge? false. Am nächsten an Lösung mit 2128 ist: -3mal 42g und 2mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2140 Teil der Menge? false. Am nächsten an Lösung mit 2136 ist: 3mal 42g und 3mal 127g und -1mal 371g und 1mal 2000g 
+Ist 2150 Teil der Menge? false. Am nächsten an Lösung mit 2154 ist: 3mal 42g und 2mal 127g und -6mal 371g und 2mal 2000g 
+Ist 2160 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2170 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 2mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2180 Teil der Menge? false. Am nächsten an Lösung mit 2178 ist: -2mal 42g und -2mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2190 Teil der Menge? false. Am nächsten an Lösung mit 2188 ist: -2mal 42g und 1mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2200 Teil der Menge? false. Am nächsten an Lösung mit 2201 ist: 2mal 42g und -2mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2210 Teil der Menge? false. Am nächsten an Lösung mit 2211 ist: 2mal 42g und 1mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2220 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2230 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2240 Teil der Menge? false. Am nächsten an Lösung mit 2239 ist: 2mal 42g und 3mal 127g und -6mal 371g und 2mal 2000g 
+Ist 2250 Teil der Menge? false. Am nächsten an Lösung mit 2253 ist: 3mal 42g und 1mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2260 Teil der Menge? false. Am nächsten an Lösung mit 2261 ist: 3mal 42g und -3mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2270 Teil der Menge? false. Am nächsten an Lösung mit 2271 ist: 3mal 42g und 0mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2280 Teil der Menge? false. Am nächsten an Lösung mit 2281 ist: 3mal 42g und 3mal 127g und -6mal 371g und 2mal 2000g 
+Ist 2290 Teil der Menge? false. Am nächsten an Lösung mit 2287 ist: -2mal 42g und 0mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2300 Teil der Menge? false. Am nächsten an Lösung mit 2297 ist: -2mal 42g und 3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2310 Teil der Menge? false. Am nächsten an Lösung mit 2314 ist: 1mal 42g und 1mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2320 Teil der Menge? false. Am nächsten an Lösung mit 2319 ist: -1mal 42g und -3mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2330 Teil der Menge? false. Am nächsten an Lösung mit 2329 ist: -1mal 42g und 0mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2340 Teil der Menge? false. Am nächsten an Lösung mit 2339 ist: -1mal 42g und 3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2350 Teil der Menge? false. Am nächsten an Lösung mit 2347 ist: -1mal 42g und -1mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2360 Teil der Menge? false. Am nächsten an Lösung mit 2361 ist: 0mal 42g und -3mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2370 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2380 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -3mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2410 Teil der Menge? false. Am nächsten an Lösung mit 2413 ist: 1mal 42g und 0mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2420 Teil der Menge? false. Am nächsten an Lösung mit 2422 ist: -2mal 42g und -3mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2430 Teil der Menge? false. Am nächsten an Lösung mit 2431 ist: 1mal 42g und -1mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2440 Teil der Menge? false. Am nächsten an Lösung mit 2441 ist: 1mal 42g und 2mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2450 Teil der Menge? false. Am nächsten an Lösung mit 2446 ist: -1mal 42g und -2mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2460 Teil der Menge? false. Am nächsten an Lösung mit 2456 ist: -1mal 42g und 1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2470 Teil der Menge? false. Am nächsten an Lösung mit 2473 ist: 2mal 42g und -1mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2480 Teil der Menge? false. Am nächsten an Lösung mit 2483 ist: 2mal 42g und 2mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2490 Teil der Menge? false. Am nächsten an Lösung mit 2489 ist: -3mal 42g und -1mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2500 Teil der Menge? false. Am nächsten an Lösung mit 2499 ist: -3mal 42g und 2mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2510 Teil der Menge? false. Am nächsten an Lösung mit 2507 ist: 3mal 42g und 3mal 127g und 0mal 371g und 1mal 2000g 
+Ist 2520 Teil der Menge? false. Am nächsten an Lösung mit 2517 ist: -3mal 42g und 1mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2530 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -2mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2540 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2550 Teil der Menge? false. Am nächsten an Lösung mit 2549 ist: -2mal 42g und -2mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2560 Teil der Menge? false. Am nächsten an Lösung mit 2559 ist: -2mal 42g und 1mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2570 Teil der Menge? false. Am nächsten an Lösung mit 2572 ist: 2mal 42g und -2mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2580 Teil der Menge? false. Am nächsten an Lösung mit 2582 ist: 2mal 42g und 1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2590 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -3mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und -5mal 371g und 2mal 2000g 
+Ist 2620 Teil der Menge? false. Am nächsten an Lösung mit 2624 ist: 3mal 42g und 1mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2630 Teil der Menge? false. Am nächsten an Lösung mit 2632 ist: 3mal 42g und -3mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2640 Teil der Menge? false. Am nächsten an Lösung mit 2642 ist: 3mal 42g und 0mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2650 Teil der Menge? false. Am nächsten an Lösung mit 2648 ist: -2mal 42g und -3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 2660 Teil der Menge? false. Am nächsten an Lösung mit 2658 ist: -2mal 42g und 0mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2670 Teil der Menge? false. Am nächsten an Lösung mit 2668 ist: -2mal 42g und 3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2680 Teil der Menge? false. Am nächsten an Lösung mit 2676 ist: -2mal 42g und -1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 2700 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 0mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2710 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2720 Teil der Menge? false. Am nächsten an Lösung mit 2718 ist: -1mal 42g und -1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2730 Teil der Menge? false. Am nächsten an Lösung mit 2732 ist: 0mal 42g und -3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 2740 Teil der Menge? false. Am nächsten an Lösung mit 2741 ist: 3mal 42g und -1mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2750 Teil der Menge? false. Am nächsten an Lösung mit 2751 ist: 3mal 42g und 2mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2760 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2780 Teil der Menge? false. Am nächsten an Lösung mit 2784 ist: 1mal 42g und 0mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2790 Teil der Menge? false. Am nächsten an Lösung mit 2793 ist: -2mal 42g und -3mal 127g und -2mal 371g und 2mal 2000g 
+Ist 2800 Teil der Menge? false. Am nächsten an Lösung mit 2802 ist: 1mal 42g und -1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2810 Teil der Menge? false. Am nächsten an Lösung mit 2812 ist: 1mal 42g und 2mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2820 Teil der Menge? false. Am nächsten an Lösung mit 2817 ist: -1mal 42g und -2mal 127g und 3mal 371g und 1mal 2000g 
+Ist 2830 Teil der Menge? false. Am nächsten an Lösung mit 2827 ist: -1mal 42g und 1mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2840 Teil der Menge? false. Am nächsten an Lösung mit 2836 ist: 2mal 42g und 3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2850 Teil der Menge? false. Am nächsten an Lösung mit 2854 ist: 2mal 42g und 2mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2860 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 2870 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 2mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2880 Teil der Menge? false. Am nächsten an Lösung mit 2878 ist: 3mal 42g und 3mal 127g und 1mal 371g und 1mal 2000g 
+Ist 2890 Teil der Menge? false. Am nächsten an Lösung mit 2888 ist: -3mal 42g und 1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2900 Teil der Menge? false. Am nächsten an Lösung mit 2901 ist: 1mal 42g und -2mal 127g und 3mal 371g und 1mal 2000g 
+Ist 2910 Teil der Menge? false. Am nächsten an Lösung mit 2911 ist: 1mal 42g und 1mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2920 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -2mal 127g und -2mal 371g und 2mal 2000g 
+Ist 2930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2940 Teil der Menge? false. Am nächsten an Lösung mit 2939 ist: 1mal 42g und 3mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2950 Teil der Menge? false. Am nächsten an Lösung mit 2953 ist: 2mal 42g und 1mal 127g und 2mal 371g und 1mal 2000g 
+Ist 2960 Teil der Menge? false. Am nächsten an Lösung mit 2961 ist: 2mal 42g und -3mal 127g und -2mal 371g und 2mal 2000g 
+Ist 2970 Teil der Menge? false. Am nächsten an Lösung mit 2971 ist: 2mal 42g und 0mal 127g und -3mal 371g und 2mal 2000g 
+Ist 2980 Teil der Menge? false. Am nächsten an Lösung mit 2981 ist: 2mal 42g und 3mal 127g und -4mal 371g und 2mal 2000g 
+Ist 2990 Teil der Menge? false. Am nächsten an Lösung mit 2987 ist: -3mal 42g und 0mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3000 Teil der Menge? false. Am nächsten an Lösung mit 2997 ist: -3mal 42g und 3mal 127g und 2mal 371g und 1mal 2000g 
+Ist 3010 Teil der Menge? false. Am nächsten an Lösung mit 3013 ist: 3mal 42g und 0mal 127g und -3mal 371g und 2mal 2000g 
+Ist 3020 Teil der Menge? false. Am nächsten an Lösung mit 3019 ist: -2mal 42g und -3mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3030 Teil der Menge? false. Am nächsten an Lösung mit 3029 ist: -2mal 42g und 0mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3040 Teil der Menge? false. Am nächsten an Lösung mit 3039 ist: -2mal 42g und 3mal 127g und 2mal 371g und 1mal 2000g 
+Ist 3050 Teil der Menge? false. Am nächsten an Lösung mit 3047 ist: -2mal 42g und -1mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3060 Teil der Menge? false. Am nächsten an Lösung mit 3061 ist: -1mal 42g und -3mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3080 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 2mal 127g und 2mal 371g und 1mal 2000g 
+Ist 3090 Teil der Menge? false. Am nächsten an Lösung mit 3089 ist: -1mal 42g und -1mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3100 Teil der Menge? false. Am nächsten an Lösung mit 3099 ist: -1mal 42g und 2mal 127g und -3mal 371g und 2mal 2000g 
+Ist 3110 Teil der Menge? false. Am nächsten an Lösung mit 3112 ist: 3mal 42g und -1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3120 Teil der Menge? false. Am nächsten an Lösung mit 3122 ist: 3mal 42g und 2mal 127g und 2mal 371g und 1mal 2000g 
+Ist 3130 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -2mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3140 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 1mal 127g und -3mal 371g und 2mal 2000g 
+Ist 3150 Teil der Menge? false. Am nächsten an Lösung mit 3146 ist: -2mal 42g und -2mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3160 Teil der Menge? false. Am nächsten an Lösung mit 3156 ist: -2mal 42g und 1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3170 Teil der Menge? false. Am nächsten an Lösung mit 3173 ist: 1mal 42g und -1mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3180 Teil der Menge? false. Am nächsten an Lösung mit 3183 ist: 1mal 42g und 2mal 127g und -3mal 371g und 2mal 2000g 
+Ist 3190 Teil der Menge? false. Am nächsten an Lösung mit 3188 ist: -1mal 42g und -2mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3200 Teil der Menge? false. Am nächsten an Lösung mit 3198 ist: -1mal 42g und 1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3210 Teil der Menge? false. Am nächsten an Lösung mit 3207 ist: 2mal 42g und 3mal 127g und 2mal 371g und 1mal 2000g 
+Ist 3220 Teil der Menge? false. Am nächsten an Lösung mit 3216 ist: -1mal 42g und 0mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3230 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3240 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3250 Teil der Menge? false. Am nächsten an Lösung mit 3249 ist: 3mal 42g und 3mal 127g und 2mal 371g und 1mal 2000g 
+Ist 3260 Teil der Menge? false. Am nächsten an Lösung mit 3259 ist: -3mal 42g und 1mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3270 Teil der Menge? false. Am nächsten an Lösung mit 3272 ist: 1mal 42g und -2mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3280 Teil der Menge? false. Am nächsten an Lösung mit 3282 ist: 1mal 42g und 1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3290 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -3mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3300 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 0mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 3mal 127g und -3mal 371g und 2mal 2000g 
+Ist 3320 Teil der Menge? false. Am nächsten an Lösung mit 3324 ist: 2mal 42g und 1mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3330 Teil der Menge? false. Am nächsten an Lösung mit 3332 ist: 2mal 42g und -3mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3340 Teil der Menge? false. Am nächsten an Lösung mit 3342 ist: 2mal 42g und 0mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3350 Teil der Menge? false. Am nächsten an Lösung mit 3351 ist: -1mal 42g und -3mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3360 Teil der Menge? false. Am nächsten an Lösung mit 3358 ist: -3mal 42g und 0mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3370 Teil der Menge? false. Am nächsten an Lösung mit 3368 ist: -3mal 42g und 3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3380 Teil der Menge? false. Am nächsten an Lösung mit 3384 ist: 3mal 42g und 0mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3410 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3420 Teil der Menge? false. Am nächsten an Lösung mit 3418 ist: -2mal 42g und -1mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3430 Teil der Menge? false. Am nächsten an Lösung mit 3432 ist: -1mal 42g und -3mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3440 Teil der Menge? false. Am nächsten an Lösung mit 3441 ist: 2mal 42g und -1mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3450 Teil der Menge? false. Am nächsten an Lösung mit 3451 ist: 2mal 42g und 2mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3460 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -1mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3470 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 2mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3480 Teil der Menge? false. Am nächsten an Lösung mit 3478 ist: -1mal 42g und -2mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3490 Teil der Menge? false. Am nächsten an Lösung mit 3493 ist: 3mal 42g und 2mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3500 Teil der Menge? false. Am nächsten an Lösung mit 3501 ist: 3mal 42g und -2mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3510 Teil der Menge? false. Am nächsten an Lösung mit 3511 ist: 3mal 42g und 1mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3520 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3530 Teil der Menge? false. Am nächsten an Lösung mit 3527 ist: -2mal 42g und 1mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3540 Teil der Menge? false. Am nächsten an Lösung mit 3536 ist: 1mal 42g und 3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3550 Teil der Menge? false. Am nächsten an Lösung mit 3554 ist: 1mal 42g und 2mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3560 Teil der Menge? false. Am nächsten an Lösung mit 3559 ist: -1mal 42g und -2mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3570 Teil der Menge? false. Am nächsten an Lösung mit 3569 ist: -1mal 42g und 1mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3580 Teil der Menge? false. Am nächsten an Lösung mit 3578 ist: 2mal 42g und 3mal 127g und 3mal 371g und 1mal 2000g 
+Ist 3590 Teil der Menge? false. Am nächsten an Lösung mit 3587 ist: -1mal 42g und 0mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3620 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -2mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3630 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 1mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3640 Teil der Menge? false. Am nächsten an Lösung mit 3639 ist: 0mal 42g und 3mal 127g und -2mal 371g und 2mal 2000g 
+Ist 3650 Teil der Menge? false. Am nächsten an Lösung mit 3648 ist: -3mal 42g und 0mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3660 Teil der Menge? false. Am nächsten an Lösung mit 3661 ist: 1mal 42g und -3mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3670 Teil der Menge? false. Am nächsten an Lösung mit 3671 ist: 1mal 42g und 0mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3680 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und -5mal 371g und 3mal 2000g 
+Ist 3690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3700 Teil der Menge? false. Am nächsten an Lösung mit 3703 ist: 2mal 42g und -3mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3710 Teil der Menge? false. Am nächsten an Lösung mit 3713 ist: 2mal 42g und 0mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3720 Teil der Menge? false. Am nächsten an Lösung mit 3719 ist: -3mal 42g und -3mal 127g und 6mal 371g und 1mal 2000g 
+Ist 3730 Teil der Menge? false. Am nächsten an Lösung mit 3729 ist: -3mal 42g und 0mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3740 Teil der Menge? false. Am nächsten an Lösung mit 3739 ist: -3mal 42g und 3mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3750 Teil der Menge? false. Am nächsten an Lösung mit 3747 ist: -3mal 42g und -1mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3760 Teil der Menge? false. Am nächsten an Lösung mit 3761 ist: -2mal 42g und -3mal 127g und 6mal 371g und 1mal 2000g 
+Ist 3770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3780 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3790 Teil der Menge? false. Am nächsten an Lösung mit 3789 ist: -2mal 42g und -1mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3800 Teil der Menge? false. Am nächsten an Lösung mit 3799 ist: -2mal 42g und 2mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3810 Teil der Menge? false. Am nächsten an Lösung mit 3812 ist: 2mal 42g und -1mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3820 Teil der Menge? false. Am nächsten an Lösung mit 3822 ist: 2mal 42g und 2mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3830 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -2mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3840 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 1mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3850 Teil der Menge? false. Am nächsten an Lösung mit 3849 ist: -1mal 42g und -2mal 127g und -5mal 371g und 3mal 2000g 
+Ist 3860 Teil der Menge? false. Am nächsten an Lösung mit 3859 ist: -1mal 42g und 1mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3870 Teil der Menge? false. Am nächsten an Lösung mit 3872 ist: 3mal 42g und -2mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3880 Teil der Menge? false. Am nächsten an Lösung mit 3882 ist: 3mal 42g und 1mal 127g und -1mal 371g und 2mal 2000g 
+Ist 3890 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und -5mal 371g und 3mal 2000g 
+Ist 3900 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und -6mal 371g und 3mal 2000g 
+Ist 3910 Teil der Menge? false. Am nächsten an Lösung mit 3907 ist: 1mal 42g und 3mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3920 Teil der Menge? false. Am nächsten an Lösung mit 3916 ist: -2mal 42g und 0mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und 6mal 371g und 1mal 2000g 
+Ist 3940 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3950 Teil der Menge? false. Am nächsten an Lösung mit 3949 ist: 2mal 42g und 3mal 127g und 4mal 371g und 1mal 2000g 
+Ist 3960 Teil der Menge? false. Am nächsten an Lösung mit 3958 ist: -1mal 42g und 0mal 127g und 0mal 371g und 2mal 2000g 
+Ist 3970 Teil der Menge? false. Am nächsten an Lösung mit 3971 ist: 3mal 42g und -3mal 127g und 6mal 371g und 1mal 2000g 
+Ist 3980 Teil der Menge? false. Am nächsten an Lösung mit 3981 ist: 3mal 42g und 0mal 127g und 5mal 371g und 1mal 2000g 
+Ist 3990 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -3mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4000 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 0mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4010 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 3mal 127g und -1mal 371g und 2mal 2000g 
+Ist 4020 Teil der Menge? false. Am nächsten an Lösung mit 4019 ist: -3mal 42g und 0mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4030 Teil der Menge? false. Am nächsten an Lösung mit 4029 ist: -3mal 42g und 3mal 127g und -6mal 371g und 3mal 2000g 
+Ist 4040 Teil der Menge? false. Am nächsten an Lösung mit 4042 ist: 1mal 42g und 0mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4050 Teil der Menge? false. Am nächsten an Lösung mit 4051 ist: -2mal 42g und -3mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4060 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und -6mal 371g und 3mal 2000g 
+Ist 4080 Teil der Menge? false. Am nächsten an Lösung mit 4084 ist: 2mal 42g und 0mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4090 Teil der Menge? false. Am nächsten an Lösung mit 4093 ist: -1mal 42g und -3mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4100 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4110 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und 5mal 371g und 1mal 2000g 
+Ist 4120 Teil der Menge? false. Am nächsten an Lösung mit 4118 ist: -3mal 42g und -1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4130 Teil der Menge? false. Am nächsten an Lösung mit 4128 ist: -3mal 42g und 2mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4140 Teil der Menge? false. Am nächsten an Lösung mit 4141 ist: 1mal 42g und -1mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4150 Teil der Menge? false. Am nächsten an Lösung mit 4151 ist: 1mal 42g und 2mal 127g und 5mal 371g und 1mal 2000g 
+Ist 4160 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4170 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 2mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4180 Teil der Menge? false. Am nächsten an Lösung mit 4178 ist: -2mal 42g und -2mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4190 Teil der Menge? false. Am nächsten an Lösung mit 4188 ist: -2mal 42g und 1mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4200 Teil der Menge? false. Am nächsten an Lösung mit 4201 ist: 2mal 42g und -2mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4210 Teil der Menge? false. Am nächsten an Lösung mit 4211 ist: 2mal 42g und 1mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4220 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4230 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4240 Teil der Menge? false. Am nächsten an Lösung mit 4239 ist: 2mal 42g und 3mal 127g und -6mal 371g und 3mal 2000g 
+Ist 4250 Teil der Menge? false. Am nächsten an Lösung mit 4253 ist: 3mal 42g und 1mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4260 Teil der Menge? false. Am nächsten an Lösung mit 4261 ist: 3mal 42g und -3mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4270 Teil der Menge? false. Am nächsten an Lösung mit 4269 ist: -2mal 42g und 1mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4280 Teil der Menge? false. Am nächsten an Lösung mit 4281 ist: 3mal 42g und 3mal 127g und -6mal 371g und 3mal 2000g 
+Ist 4290 Teil der Menge? false. Am nächsten an Lösung mit 4287 ist: -2mal 42g und 0mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4300 Teil der Menge? false. Am nächsten an Lösung mit 4297 ist: -2mal 42g und 3mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4320 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und 5mal 371g und 1mal 2000g 
+Ist 4330 Teil der Menge? false. Am nächsten an Lösung mit 4329 ist: -1mal 42g und 0mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4340 Teil der Menge? false. Am nächsten an Lösung mit 4339 ist: -1mal 42g und 3mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4350 Teil der Menge? false. Am nächsten an Lösung mit 4352 ist: 3mal 42g und 0mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4360 Teil der Menge? false. Am nächsten an Lösung mit 4361 ist: 0mal 42g und -3mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4370 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4380 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -3mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4410 Teil der Menge? false. Am nächsten an Lösung mit 4413 ist: 1mal 42g und 0mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4420 Teil der Menge? false. Am nächsten an Lösung mit 4422 ist: -2mal 42g und -3mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4430 Teil der Menge? false. Am nächsten an Lösung mit 4431 ist: 1mal 42g und -1mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4440 Teil der Menge? false. Am nächsten an Lösung mit 4441 ist: 1mal 42g und 2mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4450 Teil der Menge? false. Am nächsten an Lösung mit 4446 ist: -1mal 42g und -2mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4460 Teil der Menge? false. Am nächsten an Lösung mit 4456 ist: -1mal 42g und 1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4470 Teil der Menge? false. Am nächsten an Lösung mit 4473 ist: 2mal 42g und -1mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4480 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4490 Teil der Menge? false. Am nächsten an Lösung mit 4489 ist: -3mal 42g und -1mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4500 Teil der Menge? false. Am nächsten an Lösung mit 4499 ist: -3mal 42g und 2mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4510 Teil der Menge? false. Am nächsten an Lösung mit 4507 ist: 3mal 42g und 3mal 127g und 0mal 371g und 2mal 2000g 
+Ist 4520 Teil der Menge? false. Am nächsten an Lösung mit 4522 ist: 1mal 42g und 2mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4530 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -2mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4540 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4550 Teil der Menge? false. Am nächsten an Lösung mit 4549 ist: -2mal 42g und -2mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4560 Teil der Menge? false. Am nächsten an Lösung mit 4559 ist: -2mal 42g und 1mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4570 Teil der Menge? false. Am nächsten an Lösung mit 4572 ist: 2mal 42g und -2mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4580 Teil der Menge? false. Am nächsten an Lösung mit 4582 ist: 2mal 42g und 1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4590 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -3mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und -5mal 371g und 3mal 2000g 
+Ist 4620 Teil der Menge? false. Am nächsten an Lösung mit 4624 ist: 3mal 42g und 1mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4630 Teil der Menge? false. Am nächsten an Lösung mit 4632 ist: 3mal 42g und -3mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4640 Teil der Menge? false. Am nächsten an Lösung mit 4642 ist: 3mal 42g und 0mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4650 Teil der Menge? false. Am nächsten an Lösung mit 4649 ist: 1mal 42g und 3mal 127g und 6mal 371g und 1mal 2000g 
+Ist 4660 Teil der Menge? false. Am nächsten an Lösung mit 4658 ist: -2mal 42g und 0mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4670 Teil der Menge? false. Am nächsten an Lösung mit 4668 ist: -2mal 42g und 3mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4680 Teil der Menge? false. Am nächsten an Lösung mit 4676 ist: -2mal 42g und -1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -3mal 127g und 3mal 371g und 2mal 2000g 
+Ist 4700 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 0mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4710 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 3mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4720 Teil der Menge? false. Am nächsten an Lösung mit 4718 ist: -1mal 42g und -1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4730 Teil der Menge? false. Am nächsten an Lösung mit 4732 ist: 0mal 42g und -3mal 127g und 3mal 371g und 2mal 2000g 
+Ist 4740 Teil der Menge? false. Am nächsten an Lösung mit 4741 ist: 3mal 42g und -1mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4750 Teil der Menge? false. Am nächsten an Lösung mit 4751 ist: 3mal 42g und 2mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4760 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4780 Teil der Menge? false. Am nächsten an Lösung mit 4784 ist: 1mal 42g und 0mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4790 Teil der Menge? false. Am nächsten an Lösung mit 4793 ist: -2mal 42g und -3mal 127g und -2mal 371g und 3mal 2000g 
+Ist 4800 Teil der Menge? false. Am nächsten an Lösung mit 4802 ist: 1mal 42g und -1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4810 Teil der Menge? false. Am nächsten an Lösung mit 4812 ist: 1mal 42g und 2mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4820 Teil der Menge? false. Am nächsten an Lösung mit 4817 ist: -1mal 42g und -2mal 127g und 3mal 371g und 2mal 2000g 
+Ist 4830 Teil der Menge? false. Am nächsten an Lösung mit 4827 ist: -1mal 42g und 1mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4840 Teil der Menge? false. Am nächsten an Lösung mit 4836 ist: 2mal 42g und 3mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4850 Teil der Menge? false. Am nächsten an Lösung mit 4854 ist: 2mal 42g und 2mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4860 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 4870 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 2mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4880 Teil der Menge? false. Am nächsten an Lösung mit 4878 ist: 3mal 42g und 3mal 127g und 1mal 371g und 2mal 2000g 
+Ist 4890 Teil der Menge? false. Am nächsten an Lösung mit 4888 ist: -3mal 42g und 1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4900 Teil der Menge? false. Am nächsten an Lösung mit 4901 ist: 1mal 42g und -2mal 127g und 3mal 371g und 2mal 2000g 
+Ist 4910 Teil der Menge? false. Am nächsten an Lösung mit 4911 ist: 1mal 42g und 1mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4920 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -2mal 127g und -2mal 371g und 3mal 2000g 
+Ist 4930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4940 Teil der Menge? false. Am nächsten an Lösung mit 4939 ist: 1mal 42g und 3mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4950 Teil der Menge? false. Am nächsten an Lösung mit 4953 ist: 2mal 42g und 1mal 127g und 2mal 371g und 2mal 2000g 
+Ist 4960 Teil der Menge? false. Am nächsten an Lösung mit 4961 ist: 2mal 42g und -3mal 127g und -2mal 371g und 3mal 2000g 
+Ist 4970 Teil der Menge? false. Am nächsten an Lösung mit 4971 ist: 2mal 42g und 0mal 127g und -3mal 371g und 3mal 2000g 
+Ist 4980 Teil der Menge? false. Am nächsten an Lösung mit 4981 ist: 2mal 42g und 3mal 127g und -4mal 371g und 3mal 2000g 
+Ist 4990 Teil der Menge? false. Am nächsten an Lösung mit 4987 ist: -3mal 42g und 0mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5000 Teil der Menge? false. Am nächsten an Lösung mit 4997 ist: -3mal 42g und 3mal 127g und 2mal 371g und 2mal 2000g 
+Ist 5010 Teil der Menge? false. Am nächsten an Lösung mit 5013 ist: 3mal 42g und 0mal 127g und -3mal 371g und 3mal 2000g 
+Ist 5020 Teil der Menge? false. Am nächsten an Lösung mit 5019 ist: -2mal 42g und -3mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5030 Teil der Menge? false. Am nächsten an Lösung mit 5029 ist: -2mal 42g und 0mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5040 Teil der Menge? false. Am nächsten an Lösung mit 5039 ist: -2mal 42g und 3mal 127g und 2mal 371g und 2mal 2000g 
+Ist 5050 Teil der Menge? false. Am nächsten an Lösung mit 5047 ist: -2mal 42g und -1mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5060 Teil der Menge? false. Am nächsten an Lösung mit 5061 ist: -1mal 42g und -3mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5080 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 2mal 127g und 2mal 371g und 2mal 2000g 
+Ist 5090 Teil der Menge? false. Am nächsten an Lösung mit 5089 ist: -1mal 42g und -1mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5100 Teil der Menge? false. Am nächsten an Lösung mit 5099 ist: -1mal 42g und 2mal 127g und -3mal 371g und 3mal 2000g 
+Ist 5110 Teil der Menge? false. Am nächsten an Lösung mit 5112 ist: 3mal 42g und -1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5120 Teil der Menge? false. Am nächsten an Lösung mit 5122 ist: 3mal 42g und 2mal 127g und 2mal 371g und 2mal 2000g 
+Ist 5130 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -2mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5140 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 1mal 127g und -3mal 371g und 3mal 2000g 
+Ist 5150 Teil der Menge? false. Am nächsten an Lösung mit 5146 ist: -2mal 42g und -2mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5160 Teil der Menge? false. Am nächsten an Lösung mit 5156 ist: -2mal 42g und 1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5170 Teil der Menge? false. Am nächsten an Lösung mit 5173 ist: 1mal 42g und -1mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5180 Teil der Menge? false. Am nächsten an Lösung mit 5183 ist: 1mal 42g und 2mal 127g und -3mal 371g und 3mal 2000g 
+Ist 5190 Teil der Menge? false. Am nächsten an Lösung mit 5188 ist: -1mal 42g und -2mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5200 Teil der Menge? false. Am nächsten an Lösung mit 5198 ist: -1mal 42g und 1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5210 Teil der Menge? false. Am nächsten an Lösung mit 5207 ist: 2mal 42g und 3mal 127g und 2mal 371g und 2mal 2000g 
+Ist 5220 Teil der Menge? false. Am nächsten an Lösung mit 5216 ist: -1mal 42g und 0mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5230 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5240 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5250 Teil der Menge? false. Am nächsten an Lösung mit 5249 ist: 3mal 42g und 3mal 127g und 2mal 371g und 2mal 2000g 
+Ist 5260 Teil der Menge? false. Am nächsten an Lösung mit 5259 ist: -3mal 42g und 1mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5270 Teil der Menge? false. Am nächsten an Lösung mit 5272 ist: 1mal 42g und -2mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5280 Teil der Menge? false. Am nächsten an Lösung mit 5282 ist: 1mal 42g und 1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5290 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -3mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5300 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 0mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 3mal 127g und -3mal 371g und 3mal 2000g 
+Ist 5320 Teil der Menge? false. Am nächsten an Lösung mit 5324 ist: 2mal 42g und 1mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5330 Teil der Menge? false. Am nächsten an Lösung mit 5332 ist: 2mal 42g und -3mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5340 Teil der Menge? false. Am nächsten an Lösung mit 5342 ist: 2mal 42g und 0mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5350 Teil der Menge? false. Am nächsten an Lösung mit 5351 ist: -1mal 42g und -3mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5360 Teil der Menge? false. Am nächsten an Lösung mit 5358 ist: -3mal 42g und 0mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5370 Teil der Menge? false. Am nächsten an Lösung mit 5368 ist: -3mal 42g und 3mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5380 Teil der Menge? false. Am nächsten an Lösung mit 5384 ist: 3mal 42g und 0mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5410 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 3mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5420 Teil der Menge? false. Am nächsten an Lösung mit 5418 ist: -2mal 42g und -1mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5430 Teil der Menge? false. Am nächsten an Lösung mit 5432 ist: -1mal 42g und -3mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5440 Teil der Menge? false. Am nächsten an Lösung mit 5441 ist: 2mal 42g und -1mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5450 Teil der Menge? false. Am nächsten an Lösung mit 5451 ist: 2mal 42g und 2mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5460 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -1mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5470 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 2mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5480 Teil der Menge? false. Am nächsten an Lösung mit 5478 ist: -1mal 42g und -2mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5490 Teil der Menge? false. Am nächsten an Lösung mit 5493 ist: 3mal 42g und 2mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5500 Teil der Menge? false. Am nächsten an Lösung mit 5501 ist: 3mal 42g und -2mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5510 Teil der Menge? false. Am nächsten an Lösung mit 5511 ist: 3mal 42g und 1mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5520 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5530 Teil der Menge? false. Am nächsten an Lösung mit 5527 ist: -2mal 42g und 1mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5540 Teil der Menge? false. Am nächsten an Lösung mit 5536 ist: 1mal 42g und 3mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5550 Teil der Menge? false. Am nächsten an Lösung mit 5554 ist: 1mal 42g und 2mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5560 Teil der Menge? false. Am nächsten an Lösung mit 5559 ist: -1mal 42g und -2mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5570 Teil der Menge? false. Am nächsten an Lösung mit 5569 ist: -1mal 42g und 1mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5580 Teil der Menge? false. Am nächsten an Lösung mit 5578 ist: 2mal 42g und 3mal 127g und 3mal 371g und 2mal 2000g 
+Ist 5590 Teil der Menge? false. Am nächsten an Lösung mit 5587 ist: -1mal 42g und 0mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5620 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -2mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5630 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 1mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5640 Teil der Menge? false. Am nächsten an Lösung mit 5639 ist: 0mal 42g und 3mal 127g und -2mal 371g und 3mal 2000g 
+Ist 5650 Teil der Menge? false. Am nächsten an Lösung mit 5648 ist: -3mal 42g und 0mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5660 Teil der Menge? false. Am nächsten an Lösung mit 5661 ist: 1mal 42g und -3mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5670 Teil der Menge? false. Am nächsten an Lösung mit 5671 ist: 1mal 42g und 0mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5680 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und -5mal 371g und 4mal 2000g 
+Ist 5690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5700 Teil der Menge? false. Am nächsten an Lösung mit 5703 ist: 2mal 42g und -3mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5710 Teil der Menge? false. Am nächsten an Lösung mit 5713 ist: 2mal 42g und 0mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5720 Teil der Menge? false. Am nächsten an Lösung mit 5719 ist: -3mal 42g und -3mal 127g und 6mal 371g und 2mal 2000g 
+Ist 5730 Teil der Menge? false. Am nächsten an Lösung mit 5729 ist: -3mal 42g und 0mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5740 Teil der Menge? false. Am nächsten an Lösung mit 5739 ist: -3mal 42g und 3mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5750 Teil der Menge? false. Am nächsten an Lösung mit 5747 ist: -3mal 42g und -1mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5760 Teil der Menge? false. Am nächsten an Lösung mit 5761 ist: -2mal 42g und -3mal 127g und 6mal 371g und 2mal 2000g 
+Ist 5770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5780 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5790 Teil der Menge? false. Am nächsten an Lösung mit 5789 ist: -2mal 42g und -1mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5800 Teil der Menge? false. Am nächsten an Lösung mit 5799 ist: -2mal 42g und 2mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5810 Teil der Menge? false. Am nächsten an Lösung mit 5812 ist: 2mal 42g und -1mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5820 Teil der Menge? false. Am nächsten an Lösung mit 5822 ist: 2mal 42g und 2mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5830 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -2mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5840 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 1mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5850 Teil der Menge? false. Am nächsten an Lösung mit 5849 ist: -1mal 42g und -2mal 127g und -5mal 371g und 4mal 2000g 
+Ist 5860 Teil der Menge? false. Am nächsten an Lösung mit 5859 ist: -1mal 42g und 1mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5870 Teil der Menge? false. Am nächsten an Lösung mit 5872 ist: 3mal 42g und -2mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5880 Teil der Menge? false. Am nächsten an Lösung mit 5882 ist: 3mal 42g und 1mal 127g und -1mal 371g und 3mal 2000g 
+Ist 5890 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und -5mal 371g und 4mal 2000g 
+Ist 5900 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und -6mal 371g und 4mal 2000g 
+Ist 5910 Teil der Menge? false. Am nächsten an Lösung mit 5907 ist: 1mal 42g und 3mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5920 Teil der Menge? false. Am nächsten an Lösung mit 5916 ist: -2mal 42g und 0mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und 6mal 371g und 2mal 2000g 
+Ist 5940 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5950 Teil der Menge? false. Am nächsten an Lösung mit 5949 ist: 2mal 42g und 3mal 127g und 4mal 371g und 2mal 2000g 
+Ist 5960 Teil der Menge? false. Am nächsten an Lösung mit 5958 ist: -1mal 42g und 0mal 127g und 0mal 371g und 3mal 2000g 
+Ist 5970 Teil der Menge? false. Am nächsten an Lösung mit 5971 ist: 3mal 42g und -3mal 127g und 6mal 371g und 2mal 2000g 
+Ist 5980 Teil der Menge? false. Am nächsten an Lösung mit 5981 ist: 3mal 42g und 0mal 127g und 5mal 371g und 2mal 2000g 
+Ist 5990 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -3mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6000 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 0mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6010 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 3mal 127g und -1mal 371g und 3mal 2000g 
+Ist 6020 Teil der Menge? false. Am nächsten an Lösung mit 6019 ist: -3mal 42g und 0mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6030 Teil der Menge? false. Am nächsten an Lösung mit 6029 ist: -3mal 42g und 3mal 127g und -6mal 371g und 4mal 2000g 
+Ist 6040 Teil der Menge? false. Am nächsten an Lösung mit 6042 ist: 1mal 42g und 0mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6050 Teil der Menge? false. Am nächsten an Lösung mit 6051 ist: -2mal 42g und -3mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6060 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und -6mal 371g und 4mal 2000g 
+Ist 6080 Teil der Menge? false. Am nächsten an Lösung mit 6084 ist: 2mal 42g und 0mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6090 Teil der Menge? false. Am nächsten an Lösung mit 6093 ist: -1mal 42g und -3mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6100 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6110 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und 5mal 371g und 2mal 2000g 
+Ist 6120 Teil der Menge? false. Am nächsten an Lösung mit 6118 ist: -3mal 42g und -1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6130 Teil der Menge? false. Am nächsten an Lösung mit 6128 ist: -3mal 42g und 2mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6140 Teil der Menge? false. Am nächsten an Lösung mit 6141 ist: 1mal 42g und -1mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6150 Teil der Menge? false. Am nächsten an Lösung mit 6151 ist: 1mal 42g und 2mal 127g und 5mal 371g und 2mal 2000g 
+Ist 6160 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6170 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 2mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6180 Teil der Menge? false. Am nächsten an Lösung mit 6178 ist: -2mal 42g und -2mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6190 Teil der Menge? false. Am nächsten an Lösung mit 6188 ist: -2mal 42g und 1mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6200 Teil der Menge? false. Am nächsten an Lösung mit 6201 ist: 2mal 42g und -2mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6210 Teil der Menge? false. Am nächsten an Lösung mit 6211 ist: 2mal 42g und 1mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6220 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6230 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6240 Teil der Menge? false. Am nächsten an Lösung mit 6239 ist: 2mal 42g und 3mal 127g und -6mal 371g und 4mal 2000g 
+Ist 6250 Teil der Menge? false. Am nächsten an Lösung mit 6253 ist: 3mal 42g und 1mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6260 Teil der Menge? false. Am nächsten an Lösung mit 6261 ist: 3mal 42g und -3mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6270 Teil der Menge? false. Am nächsten an Lösung mit 6269 ist: -2mal 42g und 1mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6280 Teil der Menge? false. Am nächsten an Lösung mit 6281 ist: 3mal 42g und 3mal 127g und -6mal 371g und 4mal 2000g 
+Ist 6290 Teil der Menge? false. Am nächsten an Lösung mit 6287 ist: -2mal 42g und 0mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6300 Teil der Menge? false. Am nächsten an Lösung mit 6297 ist: -2mal 42g und 3mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6320 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und 5mal 371g und 2mal 2000g 
+Ist 6330 Teil der Menge? false. Am nächsten an Lösung mit 6329 ist: -1mal 42g und 0mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6340 Teil der Menge? false. Am nächsten an Lösung mit 6339 ist: -1mal 42g und 3mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6350 Teil der Menge? false. Am nächsten an Lösung mit 6352 ist: 3mal 42g und 0mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6360 Teil der Menge? false. Am nächsten an Lösung mit 6361 ist: 0mal 42g und -3mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6370 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6380 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -3mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6410 Teil der Menge? false. Am nächsten an Lösung mit 6413 ist: 1mal 42g und 0mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6420 Teil der Menge? false. Am nächsten an Lösung mit 6422 ist: -2mal 42g und -3mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6430 Teil der Menge? false. Am nächsten an Lösung mit 6431 ist: 1mal 42g und -1mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6440 Teil der Menge? false. Am nächsten an Lösung mit 6441 ist: 1mal 42g und 2mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6450 Teil der Menge? false. Am nächsten an Lösung mit 6446 ist: -1mal 42g und -2mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6460 Teil der Menge? false. Am nächsten an Lösung mit 6456 ist: -1mal 42g und 1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6470 Teil der Menge? false. Am nächsten an Lösung mit 6473 ist: 2mal 42g und -1mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6480 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6490 Teil der Menge? false. Am nächsten an Lösung mit 6489 ist: -3mal 42g und -1mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6500 Teil der Menge? false. Am nächsten an Lösung mit 6499 ist: -3mal 42g und 2mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6510 Teil der Menge? false. Am nächsten an Lösung mit 6507 ist: 3mal 42g und 3mal 127g und 0mal 371g und 3mal 2000g 
+Ist 6520 Teil der Menge? false. Am nächsten an Lösung mit 6522 ist: 1mal 42g und 2mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6530 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -2mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6540 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6550 Teil der Menge? false. Am nächsten an Lösung mit 6549 ist: -2mal 42g und -2mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6560 Teil der Menge? false. Am nächsten an Lösung mit 6559 ist: -2mal 42g und 1mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6570 Teil der Menge? false. Am nächsten an Lösung mit 6572 ist: 2mal 42g und -2mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6580 Teil der Menge? false. Am nächsten an Lösung mit 6582 ist: 2mal 42g und 1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6590 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -3mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und -5mal 371g und 4mal 2000g 
+Ist 6620 Teil der Menge? false. Am nächsten an Lösung mit 6624 ist: 3mal 42g und 1mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6630 Teil der Menge? false. Am nächsten an Lösung mit 6632 ist: 3mal 42g und -3mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6640 Teil der Menge? false. Am nächsten an Lösung mit 6642 ist: 3mal 42g und 0mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6650 Teil der Menge? false. Am nächsten an Lösung mit 6649 ist: 1mal 42g und 3mal 127g und 6mal 371g und 2mal 2000g 
+Ist 6660 Teil der Menge? false. Am nächsten an Lösung mit 6658 ist: -2mal 42g und 0mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6670 Teil der Menge? false. Am nächsten an Lösung mit 6668 ist: -2mal 42g und 3mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6680 Teil der Menge? false. Am nächsten an Lösung mit 6676 ist: -2mal 42g und -1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -3mal 127g und 3mal 371g und 3mal 2000g 
+Ist 6700 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 0mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6710 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 3mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6720 Teil der Menge? false. Am nächsten an Lösung mit 6718 ist: -1mal 42g und -1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6730 Teil der Menge? false. Am nächsten an Lösung mit 6732 ist: 0mal 42g und -3mal 127g und 3mal 371g und 3mal 2000g 
+Ist 6740 Teil der Menge? false. Am nächsten an Lösung mit 6741 ist: 3mal 42g und -1mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6750 Teil der Menge? false. Am nächsten an Lösung mit 6751 ist: 3mal 42g und 2mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6760 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6780 Teil der Menge? false. Am nächsten an Lösung mit 6784 ist: 1mal 42g und 0mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6790 Teil der Menge? false. Am nächsten an Lösung mit 6793 ist: -2mal 42g und -3mal 127g und -2mal 371g und 4mal 2000g 
+Ist 6800 Teil der Menge? false. Am nächsten an Lösung mit 6802 ist: 1mal 42g und -1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6810 Teil der Menge? false. Am nächsten an Lösung mit 6812 ist: 1mal 42g und 2mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6820 Teil der Menge? false. Am nächsten an Lösung mit 6817 ist: -1mal 42g und -2mal 127g und 3mal 371g und 3mal 2000g 
+Ist 6830 Teil der Menge? false. Am nächsten an Lösung mit 6827 ist: -1mal 42g und 1mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6840 Teil der Menge? false. Am nächsten an Lösung mit 6836 ist: 2mal 42g und 3mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6850 Teil der Menge? false. Am nächsten an Lösung mit 6854 ist: 2mal 42g und 2mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6860 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 6870 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 2mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6880 Teil der Menge? false. Am nächsten an Lösung mit 6878 ist: 3mal 42g und 3mal 127g und 1mal 371g und 3mal 2000g 
+Ist 6890 Teil der Menge? false. Am nächsten an Lösung mit 6888 ist: -3mal 42g und 1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6900 Teil der Menge? false. Am nächsten an Lösung mit 6901 ist: 1mal 42g und -2mal 127g und 3mal 371g und 3mal 2000g 
+Ist 6910 Teil der Menge? false. Am nächsten an Lösung mit 6911 ist: 1mal 42g und 1mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6920 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -2mal 127g und -2mal 371g und 4mal 2000g 
+Ist 6930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6940 Teil der Menge? false. Am nächsten an Lösung mit 6939 ist: 1mal 42g und 3mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6950 Teil der Menge? false. Am nächsten an Lösung mit 6953 ist: 2mal 42g und 1mal 127g und 2mal 371g und 3mal 2000g 
+Ist 6960 Teil der Menge? false. Am nächsten an Lösung mit 6961 ist: 2mal 42g und -3mal 127g und -2mal 371g und 4mal 2000g 
+Ist 6970 Teil der Menge? false. Am nächsten an Lösung mit 6971 ist: 2mal 42g und 0mal 127g und -3mal 371g und 4mal 2000g 
+Ist 6980 Teil der Menge? false. Am nächsten an Lösung mit 6981 ist: 2mal 42g und 3mal 127g und -4mal 371g und 4mal 2000g 
+Ist 6990 Teil der Menge? false. Am nächsten an Lösung mit 6987 ist: -3mal 42g und 0mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7000 Teil der Menge? false. Am nächsten an Lösung mit 6997 ist: -3mal 42g und 3mal 127g und 2mal 371g und 3mal 2000g 
+Ist 7010 Teil der Menge? false. Am nächsten an Lösung mit 7013 ist: 3mal 42g und 0mal 127g und -3mal 371g und 4mal 2000g 
+Ist 7020 Teil der Menge? false. Am nächsten an Lösung mit 7019 ist: -2mal 42g und -3mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7030 Teil der Menge? false. Am nächsten an Lösung mit 7029 ist: -2mal 42g und 0mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7040 Teil der Menge? false. Am nächsten an Lösung mit 7039 ist: -2mal 42g und 3mal 127g und 2mal 371g und 3mal 2000g 
+Ist 7050 Teil der Menge? false. Am nächsten an Lösung mit 7047 ist: -2mal 42g und -1mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7060 Teil der Menge? false. Am nächsten an Lösung mit 7061 ist: -1mal 42g und -3mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7080 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 2mal 127g und 2mal 371g und 3mal 2000g 
+Ist 7090 Teil der Menge? false. Am nächsten an Lösung mit 7089 ist: -1mal 42g und -1mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7100 Teil der Menge? false. Am nächsten an Lösung mit 7099 ist: -1mal 42g und 2mal 127g und -3mal 371g und 4mal 2000g 
+Ist 7110 Teil der Menge? false. Am nächsten an Lösung mit 7112 ist: 3mal 42g und -1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7120 Teil der Menge? false. Am nächsten an Lösung mit 7122 ist: 3mal 42g und 2mal 127g und 2mal 371g und 3mal 2000g 
+Ist 7130 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -2mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7140 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 1mal 127g und -3mal 371g und 4mal 2000g 
+Ist 7150 Teil der Menge? false. Am nächsten an Lösung mit 7146 ist: -2mal 42g und -2mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7160 Teil der Menge? false. Am nächsten an Lösung mit 7156 ist: -2mal 42g und 1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7170 Teil der Menge? false. Am nächsten an Lösung mit 7173 ist: 1mal 42g und -1mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7180 Teil der Menge? false. Am nächsten an Lösung mit 7183 ist: 1mal 42g und 2mal 127g und -3mal 371g und 4mal 2000g 
+Ist 7190 Teil der Menge? false. Am nächsten an Lösung mit 7188 ist: -1mal 42g und -2mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7200 Teil der Menge? false. Am nächsten an Lösung mit 7198 ist: -1mal 42g und 1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7210 Teil der Menge? false. Am nächsten an Lösung mit 7207 ist: 2mal 42g und 3mal 127g und 2mal 371g und 3mal 2000g 
+Ist 7220 Teil der Menge? false. Am nächsten an Lösung mit 7216 ist: -1mal 42g und 0mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7230 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7240 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7250 Teil der Menge? false. Am nächsten an Lösung mit 7249 ist: 3mal 42g und 3mal 127g und 2mal 371g und 3mal 2000g 
+Ist 7260 Teil der Menge? false. Am nächsten an Lösung mit 7259 ist: -3mal 42g und 1mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7270 Teil der Menge? false. Am nächsten an Lösung mit 7272 ist: 1mal 42g und -2mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7280 Teil der Menge? false. Am nächsten an Lösung mit 7282 ist: 1mal 42g und 1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7290 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -3mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7300 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 0mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 3mal 127g und -3mal 371g und 4mal 2000g 
+Ist 7320 Teil der Menge? false. Am nächsten an Lösung mit 7324 ist: 2mal 42g und 1mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7330 Teil der Menge? false. Am nächsten an Lösung mit 7332 ist: 2mal 42g und -3mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7340 Teil der Menge? false. Am nächsten an Lösung mit 7342 ist: 2mal 42g und 0mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7350 Teil der Menge? false. Am nächsten an Lösung mit 7351 ist: -1mal 42g und -3mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7360 Teil der Menge? false. Am nächsten an Lösung mit 7358 ist: -3mal 42g und 0mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7370 Teil der Menge? false. Am nächsten an Lösung mit 7368 ist: -3mal 42g und 3mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7380 Teil der Menge? false. Am nächsten an Lösung mit 7384 ist: 3mal 42g und 0mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7410 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 3mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7420 Teil der Menge? false. Am nächsten an Lösung mit 7418 ist: -2mal 42g und -1mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7430 Teil der Menge? false. Am nächsten an Lösung mit 7432 ist: -1mal 42g und -3mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7440 Teil der Menge? false. Am nächsten an Lösung mit 7441 ist: 2mal 42g und -1mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7450 Teil der Menge? false. Am nächsten an Lösung mit 7451 ist: 2mal 42g und 2mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7460 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -1mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7470 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 2mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7480 Teil der Menge? false. Am nächsten an Lösung mit 7478 ist: -1mal 42g und -2mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7490 Teil der Menge? false. Am nächsten an Lösung mit 7493 ist: 3mal 42g und 2mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7500 Teil der Menge? false. Am nächsten an Lösung mit 7501 ist: 3mal 42g und -2mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7510 Teil der Menge? false. Am nächsten an Lösung mit 7511 ist: 3mal 42g und 1mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7520 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7530 Teil der Menge? false. Am nächsten an Lösung mit 7527 ist: -2mal 42g und 1mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7540 Teil der Menge? false. Am nächsten an Lösung mit 7536 ist: 1mal 42g und 3mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7550 Teil der Menge? false. Am nächsten an Lösung mit 7554 ist: 1mal 42g und 2mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7560 Teil der Menge? false. Am nächsten an Lösung mit 7559 ist: -1mal 42g und -2mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7570 Teil der Menge? false. Am nächsten an Lösung mit 7569 ist: -1mal 42g und 1mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7580 Teil der Menge? false. Am nächsten an Lösung mit 7578 ist: 2mal 42g und 3mal 127g und 3mal 371g und 3mal 2000g 
+Ist 7590 Teil der Menge? false. Am nächsten an Lösung mit 7587 ist: -1mal 42g und 0mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7620 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -2mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7630 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 1mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7640 Teil der Menge? false. Am nächsten an Lösung mit 7639 ist: 0mal 42g und 3mal 127g und -2mal 371g und 4mal 2000g 
+Ist 7650 Teil der Menge? false. Am nächsten an Lösung mit 7648 ist: -3mal 42g und 0mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7660 Teil der Menge? false. Am nächsten an Lösung mit 7661 ist: 1mal 42g und -3mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7670 Teil der Menge? false. Am nächsten an Lösung mit 7671 ist: 1mal 42g und 0mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7680 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und -5mal 371g und 5mal 2000g 
+Ist 7690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7700 Teil der Menge? false. Am nächsten an Lösung mit 7703 ist: 2mal 42g und -3mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7710 Teil der Menge? false. Am nächsten an Lösung mit 7713 ist: 2mal 42g und 0mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7720 Teil der Menge? false. Am nächsten an Lösung mit 7719 ist: -3mal 42g und -3mal 127g und 6mal 371g und 3mal 2000g 
+Ist 7730 Teil der Menge? false. Am nächsten an Lösung mit 7729 ist: -3mal 42g und 0mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7740 Teil der Menge? false. Am nächsten an Lösung mit 7739 ist: -3mal 42g und 3mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7750 Teil der Menge? false. Am nächsten an Lösung mit 7747 ist: -3mal 42g und -1mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7760 Teil der Menge? false. Am nächsten an Lösung mit 7761 ist: -2mal 42g und -3mal 127g und 6mal 371g und 3mal 2000g 
+Ist 7770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7780 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7790 Teil der Menge? false. Am nächsten an Lösung mit 7789 ist: -2mal 42g und -1mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7800 Teil der Menge? false. Am nächsten an Lösung mit 7799 ist: -2mal 42g und 2mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7810 Teil der Menge? false. Am nächsten an Lösung mit 7812 ist: 2mal 42g und -1mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7820 Teil der Menge? false. Am nächsten an Lösung mit 7822 ist: 2mal 42g und 2mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7830 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -2mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7840 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 1mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7850 Teil der Menge? false. Am nächsten an Lösung mit 7849 ist: -1mal 42g und -2mal 127g und -5mal 371g und 5mal 2000g 
+Ist 7860 Teil der Menge? false. Am nächsten an Lösung mit 7859 ist: -1mal 42g und 1mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7870 Teil der Menge? false. Am nächsten an Lösung mit 7872 ist: 3mal 42g und -2mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7880 Teil der Menge? false. Am nächsten an Lösung mit 7882 ist: 3mal 42g und 1mal 127g und -1mal 371g und 4mal 2000g 
+Ist 7890 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und -5mal 371g und 5mal 2000g 
+Ist 7900 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und -6mal 371g und 5mal 2000g 
+Ist 7910 Teil der Menge? false. Am nächsten an Lösung mit 7907 ist: 1mal 42g und 3mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7920 Teil der Menge? false. Am nächsten an Lösung mit 7916 ist: -2mal 42g und 0mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und 6mal 371g und 3mal 2000g 
+Ist 7940 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7950 Teil der Menge? false. Am nächsten an Lösung mit 7949 ist: 2mal 42g und 3mal 127g und 4mal 371g und 3mal 2000g 
+Ist 7960 Teil der Menge? false. Am nächsten an Lösung mit 7958 ist: -1mal 42g und 0mal 127g und 0mal 371g und 4mal 2000g 
+Ist 7970 Teil der Menge? false. Am nächsten an Lösung mit 7971 ist: 3mal 42g und -3mal 127g und 6mal 371g und 3mal 2000g 
+Ist 7980 Teil der Menge? false. Am nächsten an Lösung mit 7981 ist: 3mal 42g und 0mal 127g und 5mal 371g und 3mal 2000g 
+Ist 7990 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -3mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8000 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 0mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8010 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 3mal 127g und -1mal 371g und 4mal 2000g 
+Ist 8020 Teil der Menge? false. Am nächsten an Lösung mit 8019 ist: -3mal 42g und 0mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8030 Teil der Menge? false. Am nächsten an Lösung mit 8029 ist: -3mal 42g und 3mal 127g und -6mal 371g und 5mal 2000g 
+Ist 8040 Teil der Menge? false. Am nächsten an Lösung mit 8042 ist: 1mal 42g und 0mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8050 Teil der Menge? false. Am nächsten an Lösung mit 8051 ist: -2mal 42g und -3mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8060 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und -6mal 371g und 5mal 2000g 
+Ist 8080 Teil der Menge? false. Am nächsten an Lösung mit 8084 ist: 2mal 42g und 0mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8090 Teil der Menge? false. Am nächsten an Lösung mit 8093 ist: -1mal 42g und -3mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8100 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8110 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und 5mal 371g und 3mal 2000g 
+Ist 8120 Teil der Menge? false. Am nächsten an Lösung mit 8118 ist: -3mal 42g und -1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8130 Teil der Menge? false. Am nächsten an Lösung mit 8128 ist: -3mal 42g und 2mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8140 Teil der Menge? false. Am nächsten an Lösung mit 8141 ist: 1mal 42g und -1mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8150 Teil der Menge? false. Am nächsten an Lösung mit 8151 ist: 1mal 42g und 2mal 127g und 5mal 371g und 3mal 2000g 
+Ist 8160 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8170 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 2mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8180 Teil der Menge? false. Am nächsten an Lösung mit 8178 ist: -2mal 42g und -2mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8190 Teil der Menge? false. Am nächsten an Lösung mit 8188 ist: -2mal 42g und 1mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8200 Teil der Menge? false. Am nächsten an Lösung mit 8201 ist: 2mal 42g und -2mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8210 Teil der Menge? false. Am nächsten an Lösung mit 8211 ist: 2mal 42g und 1mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8220 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8230 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8240 Teil der Menge? false. Am nächsten an Lösung mit 8239 ist: 2mal 42g und 3mal 127g und -6mal 371g und 5mal 2000g 
+Ist 8250 Teil der Menge? false. Am nächsten an Lösung mit 8253 ist: 3mal 42g und 1mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8260 Teil der Menge? false. Am nächsten an Lösung mit 8261 ist: 3mal 42g und -3mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8270 Teil der Menge? false. Am nächsten an Lösung mit 8269 ist: -2mal 42g und 1mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8280 Teil der Menge? false. Am nächsten an Lösung mit 8281 ist: 3mal 42g und 3mal 127g und -6mal 371g und 5mal 2000g 
+Ist 8290 Teil der Menge? false. Am nächsten an Lösung mit 8287 ist: -2mal 42g und 0mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8300 Teil der Menge? false. Am nächsten an Lösung mit 8297 ist: -2mal 42g und 3mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8320 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und 5mal 371g und 3mal 2000g 
+Ist 8330 Teil der Menge? false. Am nächsten an Lösung mit 8329 ist: -1mal 42g und 0mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8340 Teil der Menge? false. Am nächsten an Lösung mit 8339 ist: -1mal 42g und 3mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8350 Teil der Menge? false. Am nächsten an Lösung mit 8352 ist: 3mal 42g und 0mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8360 Teil der Menge? false. Am nächsten an Lösung mit 8361 ist: 0mal 42g und -3mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8370 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8380 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -3mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 0mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 3mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8410 Teil der Menge? false. Am nächsten an Lösung mit 8413 ist: 1mal 42g und 0mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8420 Teil der Menge? false. Am nächsten an Lösung mit 8422 ist: -2mal 42g und -3mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8430 Teil der Menge? false. Am nächsten an Lösung mit 8431 ist: 1mal 42g und -1mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8440 Teil der Menge? false. Am nächsten an Lösung mit 8441 ist: 1mal 42g und 2mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8450 Teil der Menge? false. Am nächsten an Lösung mit 8446 ist: -1mal 42g und -2mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8460 Teil der Menge? false. Am nächsten an Lösung mit 8456 ist: -1mal 42g und 1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8470 Teil der Menge? false. Am nächsten an Lösung mit 8473 ist: 2mal 42g und -1mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8480 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8490 Teil der Menge? false. Am nächsten an Lösung mit 8489 ist: -3mal 42g und -1mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8500 Teil der Menge? false. Am nächsten an Lösung mit 8499 ist: -3mal 42g und 2mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8510 Teil der Menge? false. Am nächsten an Lösung mit 8507 ist: 3mal 42g und 3mal 127g und 0mal 371g und 4mal 2000g 
+Ist 8520 Teil der Menge? false. Am nächsten an Lösung mit 8522 ist: 1mal 42g und 2mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8530 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -2mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8540 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8550 Teil der Menge? false. Am nächsten an Lösung mit 8549 ist: -2mal 42g und -2mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8560 Teil der Menge? false. Am nächsten an Lösung mit 8559 ist: -2mal 42g und 1mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8570 Teil der Menge? false. Am nächsten an Lösung mit 8572 ist: 2mal 42g und -2mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8580 Teil der Menge? false. Am nächsten an Lösung mit 8582 ist: 2mal 42g und 1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8590 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -3mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 0mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 3mal 127g und -5mal 371g und 5mal 2000g 
+Ist 8620 Teil der Menge? false. Am nächsten an Lösung mit 8624 ist: 3mal 42g und 1mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8630 Teil der Menge? false. Am nächsten an Lösung mit 8632 ist: 3mal 42g und -3mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8640 Teil der Menge? false. Am nächsten an Lösung mit 8642 ist: 3mal 42g und 0mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8650 Teil der Menge? false. Am nächsten an Lösung mit 8649 ist: 1mal 42g und 3mal 127g und 6mal 371g und 3mal 2000g 
+Ist 8660 Teil der Menge? false. Am nächsten an Lösung mit 8658 ist: -2mal 42g und 0mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8670 Teil der Menge? false. Am nächsten an Lösung mit 8668 ist: -2mal 42g und 3mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8680 Teil der Menge? false. Am nächsten an Lösung mit 8676 ist: -2mal 42g und -1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8690 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -3mal 127g und 3mal 371g und 4mal 2000g 
+Ist 8700 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 0mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8710 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 3mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8720 Teil der Menge? false. Am nächsten an Lösung mit 8718 ist: -1mal 42g und -1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8730 Teil der Menge? false. Am nächsten an Lösung mit 8732 ist: 0mal 42g und -3mal 127g und 3mal 371g und 4mal 2000g 
+Ist 8740 Teil der Menge? false. Am nächsten an Lösung mit 8741 ist: 3mal 42g und -1mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8750 Teil der Menge? false. Am nächsten an Lösung mit 8751 ist: 3mal 42g und 2mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8760 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 2mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8780 Teil der Menge? false. Am nächsten an Lösung mit 8784 ist: 1mal 42g und 0mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8790 Teil der Menge? false. Am nächsten an Lösung mit 8793 ist: -2mal 42g und -3mal 127g und -2mal 371g und 5mal 2000g 
+Ist 8800 Teil der Menge? false. Am nächsten an Lösung mit 8802 ist: 1mal 42g und -1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8810 Teil der Menge? false. Am nächsten an Lösung mit 8812 ist: 1mal 42g und 2mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8820 Teil der Menge? false. Am nächsten an Lösung mit 8817 ist: -1mal 42g und -2mal 127g und 3mal 371g und 4mal 2000g 
+Ist 8830 Teil der Menge? false. Am nächsten an Lösung mit 8827 ist: -1mal 42g und 1mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8840 Teil der Menge? false. Am nächsten an Lösung mit 8836 ist: 2mal 42g und 3mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8850 Teil der Menge? false. Am nächsten an Lösung mit 8854 ist: 2mal 42g und 2mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8860 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 8870 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 2mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8880 Teil der Menge? false. Am nächsten an Lösung mit 8878 ist: 3mal 42g und 3mal 127g und 1mal 371g und 4mal 2000g 
+Ist 8890 Teil der Menge? false. Am nächsten an Lösung mit 8888 ist: -3mal 42g und 1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8900 Teil der Menge? false. Am nächsten an Lösung mit 8901 ist: 1mal 42g und -2mal 127g und 3mal 371g und 4mal 2000g 
+Ist 8910 Teil der Menge? false. Am nächsten an Lösung mit 8911 ist: 1mal 42g und 1mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8920 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -2mal 127g und -2mal 371g und 5mal 2000g 
+Ist 8930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8940 Teil der Menge? false. Am nächsten an Lösung mit 8939 ist: 1mal 42g und 3mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8950 Teil der Menge? false. Am nächsten an Lösung mit 8953 ist: 2mal 42g und 1mal 127g und 2mal 371g und 4mal 2000g 
+Ist 8960 Teil der Menge? false. Am nächsten an Lösung mit 8961 ist: 2mal 42g und -3mal 127g und -2mal 371g und 5mal 2000g 
+Ist 8970 Teil der Menge? false. Am nächsten an Lösung mit 8971 ist: 2mal 42g und 0mal 127g und -3mal 371g und 5mal 2000g 
+Ist 8980 Teil der Menge? false. Am nächsten an Lösung mit 8981 ist: 2mal 42g und 3mal 127g und -4mal 371g und 5mal 2000g 
+Ist 8990 Teil der Menge? false. Am nächsten an Lösung mit 8987 ist: -3mal 42g und 0mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9000 Teil der Menge? false. Am nächsten an Lösung mit 8997 ist: -3mal 42g und 3mal 127g und 2mal 371g und 4mal 2000g 
+Ist 9010 Teil der Menge? false. Am nächsten an Lösung mit 9013 ist: 3mal 42g und 0mal 127g und -3mal 371g und 5mal 2000g 
+Ist 9020 Teil der Menge? false. Am nächsten an Lösung mit 9019 ist: -2mal 42g und -3mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9030 Teil der Menge? false. Am nächsten an Lösung mit 9029 ist: -2mal 42g und 0mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9040 Teil der Menge? false. Am nächsten an Lösung mit 9039 ist: -2mal 42g und 3mal 127g und 2mal 371g und 4mal 2000g 
+Ist 9050 Teil der Menge? false. Am nächsten an Lösung mit 9047 ist: -2mal 42g und -1mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9060 Teil der Menge? false. Am nächsten an Lösung mit 9061 ist: -1mal 42g und -3mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9070 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9080 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 2mal 127g und 2mal 371g und 4mal 2000g 
+Ist 9090 Teil der Menge? false. Am nächsten an Lösung mit 9089 ist: -1mal 42g und -1mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9100 Teil der Menge? false. Am nächsten an Lösung mit 9099 ist: -1mal 42g und 2mal 127g und -3mal 371g und 5mal 2000g 
+Ist 9110 Teil der Menge? false. Am nächsten an Lösung mit 9112 ist: 3mal 42g und -1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9120 Teil der Menge? false. Am nächsten an Lösung mit 9122 ist: 3mal 42g und 2mal 127g und 2mal 371g und 4mal 2000g 
+Ist 9130 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -2mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9140 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 1mal 127g und -3mal 371g und 5mal 2000g 
+Ist 9150 Teil der Menge? false. Am nächsten an Lösung mit 9146 ist: -2mal 42g und -2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9160 Teil der Menge? false. Am nächsten an Lösung mit 9156 ist: -2mal 42g und 1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9170 Teil der Menge? false. Am nächsten an Lösung mit 9173 ist: 1mal 42g und -1mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9180 Teil der Menge? false. Am nächsten an Lösung mit 9183 ist: 1mal 42g und 2mal 127g und -3mal 371g und 5mal 2000g 
+Ist 9190 Teil der Menge? false. Am nächsten an Lösung mit 9188 ist: -1mal 42g und -2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9200 Teil der Menge? false. Am nächsten an Lösung mit 9198 ist: -1mal 42g und 1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9210 Teil der Menge? false. Am nächsten an Lösung mit 9207 ist: 2mal 42g und 3mal 127g und 2mal 371g und 4mal 2000g 
+Ist 9220 Teil der Menge? false. Am nächsten an Lösung mit 9216 ist: -1mal 42g und 0mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9230 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9240 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9250 Teil der Menge? false. Am nächsten an Lösung mit 9249 ist: 3mal 42g und 3mal 127g und 2mal 371g und 4mal 2000g 
+Ist 9260 Teil der Menge? false. Am nächsten an Lösung mit 9259 ist: -3mal 42g und 1mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9270 Teil der Menge? false. Am nächsten an Lösung mit 9272 ist: 1mal 42g und -2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9280 Teil der Menge? false. Am nächsten an Lösung mit 9282 ist: 1mal 42g und 1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9290 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -3mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9300 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 0mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9310 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 3mal 127g und -3mal 371g und 5mal 2000g 
+Ist 9320 Teil der Menge? false. Am nächsten an Lösung mit 9324 ist: 2mal 42g und 1mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9330 Teil der Menge? false. Am nächsten an Lösung mit 9332 ist: 2mal 42g und -3mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9340 Teil der Menge? false. Am nächsten an Lösung mit 9342 ist: 2mal 42g und 0mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9350 Teil der Menge? false. Am nächsten an Lösung mit 9348 ist: -3mal 42g und -3mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9360 Teil der Menge? false. Am nächsten an Lösung mit 9358 ist: -3mal 42g und 0mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9370 Teil der Menge? false. Am nächsten an Lösung mit 9368 ist: -3mal 42g und 3mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9380 Teil der Menge? false. Am nächsten an Lösung mit 9384 ist: 3mal 42g und 0mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9390 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und -3mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9400 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 0mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9410 Teil der Menge? true. Ein möglicher Lösungsweg ist: -2mal 42g und 3mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9420 Teil der Menge? false. Am nächsten an Lösung mit 9418 ist: -2mal 42g und -1mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9430 Teil der Menge? false. Am nächsten an Lösung mit 9432 ist: -1mal 42g und -3mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9440 Teil der Menge? false. Am nächsten an Lösung mit 9441 ist: 2mal 42g und -1mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9450 Teil der Menge? false. Am nächsten an Lösung mit 9451 ist: 2mal 42g und 2mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9460 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -1mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9470 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 2mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9480 Teil der Menge? false. Am nächsten an Lösung mit 9483 ist: 3mal 42g und -1mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9490 Teil der Menge? false. Am nächsten an Lösung mit 9493 ist: 3mal 42g und 2mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9500 Teil der Menge? false. Am nächsten an Lösung mit 9501 ist: 3mal 42g und -2mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9510 Teil der Menge? false. Am nächsten an Lösung mit 9511 ist: 3mal 42g und 1mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9520 Teil der Menge? false. Am nächsten an Lösung mit 9517 ist: -2mal 42g und -2mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9530 Teil der Menge? false. Am nächsten an Lösung mit 9527 ist: -2mal 42g und 1mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9540 Teil der Menge? false. Am nächsten an Lösung mit 9536 ist: 1mal 42g und 3mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9550 Teil der Menge? false. Am nächsten an Lösung mit 9554 ist: 1mal 42g und 2mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9560 Teil der Menge? false. Am nächsten an Lösung mit 9559 ist: -1mal 42g und -2mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9570 Teil der Menge? false. Am nächsten an Lösung mit 9569 ist: -1mal 42g und 1mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9580 Teil der Menge? false. Am nächsten an Lösung mit 9578 ist: 2mal 42g und 3mal 127g und 3mal 371g und 4mal 2000g 
+Ist 9590 Teil der Menge? false. Am nächsten an Lösung mit 9587 ist: -1mal 42g und 0mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9600 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und -3mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9610 Teil der Menge? true. Ein möglicher Lösungsweg ist: 3mal 42g und 0mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9620 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und -2mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9630 Teil der Menge? true. Ein möglicher Lösungsweg ist: -3mal 42g und 1mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9640 Teil der Menge? false. Am nächsten an Lösung mit 9639 ist: 0mal 42g und 3mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9650 Teil der Menge? false. Am nächsten an Lösung mit 9653 ist: 1mal 42g und 1mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9660 Teil der Menge? false. Am nächsten an Lösung mit 9661 ist: 1mal 42g und -3mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9670 Teil der Menge? false. Am nächsten an Lösung mit 9671 ist: 1mal 42g und 0mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9680 Teil der Menge? false. Am nächsten an Lösung mit 9681 ist: 1mal 42g und 3mal 127g und -2mal 371g und 5mal 2000g 
+Ist 9690 Teil der Menge? false. Am nächsten an Lösung mit 9686 ist: -1mal 42g und -1mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9700 Teil der Menge? false. Am nächsten an Lösung mit 9703 ist: 2mal 42g und -3mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9710 Teil der Menge? false. Am nächsten an Lösung mit 9713 ist: 2mal 42g und 0mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9720 Teil der Menge? false. Am nächsten an Lösung mit 9719 ist: -3mal 42g und -3mal 127g und 6mal 371g und 4mal 2000g 
+Ist 9730 Teil der Menge? false. Am nächsten an Lösung mit 9729 ist: -3mal 42g und 0mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9740 Teil der Menge? false. Am nächsten an Lösung mit 9739 ist: -3mal 42g und 3mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9750 Teil der Menge? false. Am nächsten an Lösung mit 9747 ist: -3mal 42g und -1mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9760 Teil der Menge? false. Am nächsten an Lösung mit 9761 ist: -2mal 42g und -3mal 127g und 6mal 371g und 4mal 2000g 
+Ist 9770 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und -1mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9780 Teil der Menge? true. Ein möglicher Lösungsweg ist: 1mal 42g und 2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9790 Teil der Menge? false. Am nächsten an Lösung mit 9789 ist: -2mal 42g und -1mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9800 Teil der Menge? false. Am nächsten an Lösung mit 9799 ist: -2mal 42g und 2mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9810 Teil der Menge? false. Am nächsten an Lösung mit 9812 ist: 2mal 42g und -1mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9820 Teil der Menge? false. Am nächsten an Lösung mit 9822 ist: 2mal 42g und 2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9830 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und -2mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9840 Teil der Menge? true. Ein möglicher Lösungsweg ist: 2mal 42g und 1mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9850 Teil der Menge? false. Am nächsten an Lösung mit 9854 ist: 3mal 42g und -1mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9860 Teil der Menge? false. Am nächsten an Lösung mit 9864 ist: 3mal 42g und 2mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9870 Teil der Menge? false. Am nächsten an Lösung mit 9872 ist: 3mal 42g und -2mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9880 Teil der Menge? false. Am nächsten an Lösung mit 9882 ist: 3mal 42g und 1mal 127g und -1mal 371g und 5mal 2000g 
+Ist 9890 Teil der Menge? false. Am nächsten an Lösung mit 9888 ist: -2mal 42g und -2mal 127g und 6mal 371g und 4mal 2000g 
+Ist 9900 Teil der Menge? false. Am nächsten an Lösung mit 9898 ist: -2mal 42g und 1mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9910 Teil der Menge? false. Am nächsten an Lösung mit 9907 ist: 1mal 42g und 3mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9920 Teil der Menge? false. Am nächsten an Lösung mit 9916 ist: -2mal 42g und 0mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9930 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und -2mal 127g und 6mal 371g und 4mal 2000g 
+Ist 9940 Teil der Menge? true. Ein möglicher Lösungsweg ist: -1mal 42g und 1mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9950 Teil der Menge? false. Am nächsten an Lösung mit 9949 ist: 2mal 42g und 3mal 127g und 4mal 371g und 4mal 2000g 
+Ist 9960 Teil der Menge? false. Am nächsten an Lösung mit 9958 ist: -1mal 42g und 0mal 127g und 0mal 371g und 5mal 2000g 
+Ist 9970 Teil der Menge? false. Am nächsten an Lösung mit 9971 ist: 3mal 42g und -3mal 127g und 6mal 371g und 4mal 2000g 
+Ist 9980 Teil der Menge? false. Am nächsten an Lösung mit 9981 ist: 3mal 42g und 0mal 127g und 5mal 371g und 4mal 2000g 
+Ist 9990 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und -3mal 127g und 1mal 371g und 5mal 2000g 
+Ist 10000 Teil der Menge? true. Ein möglicher Lösungsweg ist: 0mal 42g und 0mal 127g und 0mal 371g und 5mal 2000g 

@@ -1,0 +1,1 @@
+Die Jar-Datei bitte über die Konsole starten, da das Programm über diese nach einem Dateipfad fragen wird.

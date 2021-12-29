@@ -1,0 +1,17 @@
+public class GewichteDaten {
+	
+	public int[] koeffizienten;
+	public int[] gewichteMasse;
+	public int[] gewichteMaenge;
+	public int[][] koeffizientenMinMax;
+	
+	public GewichteDaten(int[] koeffizienten, int[] gewichteMasse, 
+	int[] gewichteMaenge, int[][] koeffizientenMinMax) {
+		
+		this.koeffizienten=koeffizienten;
+		this.gewichteMasse=gewichteMasse;
+		this.gewichteMaenge=gewichteMaenge;
+		this.koeffizientenMinMax=koeffizientenMinMax;
+		
+	}
+}
