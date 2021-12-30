@@ -6,7 +6,6 @@
 | Aufgabe 1: Schiebeparkplatz                                    | 4              |
 | Aufgabe 3: Wortsuche                                           | 5              |
 | Aufgabe 4: Würfelglück                                         | 5              |
-|----------------------------------------------------------------|----------------|
 | **Eingereichte Lösungen, die nicht für die Gesamtwertung zählen:** |                |
 | Aufgabe 2: Vollgeladen                                         | 4              |
 | Aufgabe 5: Marktwaage                                          | 2              |
