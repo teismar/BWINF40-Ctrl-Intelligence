@@ -10,7 +10,7 @@
 | Aufgabe 2: Vollgeladen                                         | 4              |
 | Aufgabe 5: Marktwaage                                          | 2              |
 | Gesamtpunktzahl:                                               | 14             |
-| Ergebnis:                                                      | Weitergekommen |
+| **Ergebnis:**                                                      | Weitergekommen |
 ## Einzelbewertung
 | **Aufgabe**                                                        | **Punkte** |
 |----------------------------------------------------------------|--------|
