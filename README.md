@@ -1,6 +1,6 @@
 # BWINF40-Ctrl-Intelligence
 
-# Gesamtbewertung
+## Gesamtbewertung
 | Eingereichte Lösungen, die für die Gesamtwertung zählen:       | Punkte         |
 |----------------------------------------------------------------|----------------|
 | Aufgabe 1: Schiebeparkplatz                                    | 4              |
@@ -11,7 +11,7 @@
 | Aufgabe 5: Marktwaage                                          | 2              |
 | Gesamtpunktzahl:                                               | 14             |
 | Ergebnis:                                                      | Weitergekommen |
-# Einzelbewertung
+## Einzelbewertung
 | Aufgabe                                                        | Punkte |
 |----------------------------------------------------------------|--------|
 | Aufgabe 1: Schiebeparkplatz                                    | 4/5    |
